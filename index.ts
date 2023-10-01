@@ -19,13 +19,14 @@ const randRows = shuffleArray(rows);
 
 
 let index = 0;
+const numOfWordsPerPpt = 100;
 while (index < randRows.length) {
 
 	let pptx = new PptxGenJS();
-	for (const row of randRows.slice(index, index + 20)) {
+	for (const row of randRows.slice(index, index + numOfWordsPerPpt > randRows.length ? randRows.length : index + numOfWordsPerPpt)) {
 		let slide = pptx.addSlide();
-		const [kanji, reading, definition] = row.split(',');
-		slide.addText(`${kanji.replaceAll("\"", "")}\n${reading.replaceAll("\"", "")}\n${definition.replaceAll("\"", "")}`, {
+		const card = row.split(',').join('/n');
+		slide.addText(`${card}`, {
 			x: 0,
 			y: 1,
 			w: "100%",
@@ -35,6 +36,6 @@ while (index < randRows.length) {
 			fontSize: 48,
 		});
 	}
-	pptx.writeFile({ fileName: `PptxGenJS-Demo${index}.pptx` });
-	index += 20;
+	pptx.writeFile({ fileName: `./output/PptxGenJS-Demo${index}.pptx` });
+	index += numOfWordsPerPpt;
 }
