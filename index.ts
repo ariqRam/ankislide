@@ -1,4 +1,6 @@
 import PptxGenJS from "pptxgenjs";
+import { KanjiDeck } from "./classes/kanjiDeck";
+
 const fs = require('fs');
 const path = require('path');
 
@@ -14,6 +16,8 @@ function shuffleArray<T>(originalArray: ReadonlyArray<T>): T[] {
 }
 
 const folderPath = './input';
+const Oct2StartingPage = 59;
+const deck = new KanjiDeck(Oct2StartingPage);
 const files: string[] = fs.readdirSync(folderPath);
 
 files.forEach(file => {

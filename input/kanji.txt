@@ -1,0 +1,762 @@
+--- 漢字2(1-2) ---
+
+意志 (いし): will, volition, intention, intent, determination
+望む (のぞむ): to desire; to wish for, to expect; to see, to command (a view of)
+志望 (しぼう): wish, desire, ambition, choice
+述べる (のべる): to state, to express, to say, to tell, to mention
+記述 (きじゅつ): description, account
+絡む (からむ): to twine, to get tangled, to get entangled, to get caught (in); to be involved (e.g. of money in a matter), to get involved (in), to be a factor (in), to have an influence; to pick a quarrel (with), to find fault (with), to pester, to hassle
+連絡 (れんらく): contacting, (making) contact, getting in touch, communication, correspondence, call, message; connection (with a train, bus, etc.), joining (a railway line, etc.), meeting; connection (between matters, incidents, etc.), relation, link
+聞く (きく): to hear; to listen (e.g. to music); to ask, to enquire, to query; to hear about, to hear of, to learn of; to follow (advice, order, etc.), to obey, to listen to, to comply with; to hear (e.g. a plea), to grant (a request), to accept (e.g. an argument), to give consideration to; to smell (esp. incense), to sample (a fragrance); to taste (alcohol), to try
+聴覚 (ちょうかく): the sense of hearing
+告げる (つげる): to tell, to inform, to announce; to indicate, to signal, to mark
+広告 (こうこく): advertisement, advertising; announcement, notice
+伝える (つたえる): to convey, to report, to transmit, to communicate, to tell, to impart, to propagate, to teach, to bequeath
+伝言 (でんごん): verbal message, word (from someone)
+手伝う (てつだう): to help, to assist, to aid; to contribute to, to be a factor in
+要素 (ようそ): component, factor, item (e.g. in list); element (e.g. in array), member (e.g. data structure)
+素晴らしい (すばらしい): wonderful, splendid, magnificent
+
+--- 漢字2(3-4) ---
+
+味 (あじ): flavor, flavour, taste; charm, appeal, uniqueness, attractiveness; experience, taste (e.g. of victory); smart, clever, witty, strange
+意味 (いみ): meaning, significance, sense
+興味 (きょうみ): interest (in something), curiosity (about something), zest (for)
+将来 (しょうらい): future (usually near), prospects
+基づく (もとづく): to be based (on), to be founded (on), to be grounded (on), to be in accordance (with); to be due to, to come (from), to arise (from), to originate (in)
+基本 (きほん): basics, fundamentals, basis, foundation
+基礎 (きそ): foundation, basis
+表す (あらわす): to represent, to signify, to stand for; to reveal, to show, to display; to express; to make widely known
+表 (おもて): surface; face (i.e. the visible side of an object); front (of a building, etc.), obverse side (i.e. ""head"") of a coin; outside, exterior; appearance; public; first half (of an inning), top (of an inning); cover (for tatami mats, etc.); foreground; Omotesenke school of tea ceremony
+表紙 (ひょうし): cover (of a book, magazine, etc.), binding; to appear on the cover of a magazine
+現れる (あらわれる): to appear, to come in sight, to become visible, to come out, to embody, to materialize, to materialise; to be expressed (e.g. emotions), to become apparent (e.g. trends, effects)
+表現 (ひょうげん): expression, presentation; representation, notation
+方法 (ほうほう): method, process, manner, way, means, technique
+
+--- 漢字2(5-6) ---
+
+専門 (せんもん): speciality, specialty, subject of study, expert, area of expertise
+特技 (とくぎ): special skill
+技術 (ぎじゅつ): technology, engineering; technique, skill; art, craft
+身 (み): body; oneself; one's place, one's position; main part, meat (as opposed to bone, skin, etc.), wood (as opposed to bark), blade (as opposed to its handle), container (as opposed to its lid)
+自身 (じしん): (one's) self, oneself
+経由 (けいゆ): going through, going via, going by way of
+理由 (りゆう): reason, pretext, motive
+上げる (あげる): to raise, to elevate; to do up (one's hair); to fly (a kite, etc.), to launch (fireworks, etc.), to surface (a submarine, etc.); to land (a boat); to deep-fry; to show someone (into a room); to give; to send someone (away); to enrol (one's child in school), to enroll; to increase (price, quality, status, etc.), to develop (talent, skill), to improve; to make (a loud sound), to raise (one's voice); to earn (something desirable); to praise; to give (an example, etc.), to cite; to summon up (all of one's energy, etc.); to arrest; to nominate; to summon (for geishas, etc.); to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.); to bear (a child); to conduct (a ceremony, esp. a wedding); (of the tide) to come in; to vomit; to do for (the sake of someone else); to complete ...; to humbly do ...
+挙手 (きょしゅ): raising one's hand, show of hands (e.g. for a vote); salute
+希望 (きぼう): hope, wish, aspiration; (bright) prospects, expectation
+動詞 (どうし): verb
+
+--- 漢字2(7-8) ---
+
+探す (さがす): to search for, to look for, to hunt for, to seek; to search (a house, pocket, etc.), to search through, to rummage in (e.g. a drawer), to fish around
+探る (さぐる): to feel around for, to fumble for, to grope for, to search for, to look for; to investigate, to probe into, to spy on, to sound out; to explore (parts unknown), to enjoy (natural beauty)
+探知 (たんち): detection
+内容 (ないよう): contents, content, substance, matter, detail, import
+示す (しめす): to (take out and) show, to demonstrate, to tell, to exemplify, to make apparent; to point out (finger, clock hand, needle, etc.); to indicate, to show, to represent, to signify, to display
+例示 (れいじ): exemplification, illustrating by example
+以上 (いじょう): not less than, ... and over, ... and above, ... and upwards, ... or more; beyond (e.g. one's expectations), above, more than, further than; above-mentioned, aforementioned, foregoing; since ..., seeing that ..., now that ..., once ...; that's all, that is the end, the end
+示唆 (しさ): suggestion, hint, implication
+留学 (りゅうがく): studying abroad; studying at a different school, etc. (usu. for a specific purpose)
+止まる (とまる): to stop (moving), to come to a stop; to stop (doing, working, being supplied), to come to a halt, to cease, to be stopped, to be suspended; to alight, to perch on
+似る (にる): to resemble, to look like, to be like, to be alike, to be similar, to take after
+類似 (るいじ): resemblance, similarity, likeness, analogy
+違う (ちがう): to differ (from), to be different, to be distinct, to be unlike, to vary, to disagree (with); to be wrong, to be incorrect, to be mistaken; to become abnormal, to go wrong; isn't it?, wasn't it?
+相違 (そうい): difference, discrepancy, variation
+
+--- 漢字2(9-10) ---
+
+源 (みなもと): source (of a river), fountainhead; source, origin, root
+語源 (ごげん): origin of a word, derivation of a word, etymology
+的 (まと): mark, target; object, subject, focus; point (e.g. of argument)
+的 (てき): -ical, -ive, -al, -ic, -y; -like, -ish, -sort of, -kind of; (something) like, along the lines of; -wise, in terms of, for, from the viewpoint of, from a ... standpoint, as far as ... is concerned; Mr., Ms., Mrs.
+育てる (そだてる): to raise, to rear, to bring up; to train, to teach, to educate; to promote the growth of, to nurture, to foster, to develop
+育む (はぐくむ): to raise, to bring up, to rear; to cultivate, to foster, to nurture
+体育館 (たいいくかん): gymnasium
+参考 (さんこう): reference, consultation
+加える (くわえる): to add, to add up, to sum up, to append, to annex; to increase, to gather (e.g. speed), to pick up; to include, to count in, to let join; to inflict (damage), to deal, to give
+参加 (さんか): participation, joining, entry
+知識 (ちしき): knowledge, information
+実践 (じっせん): practice, putting into practice, implementation; praxis (philosophy)
+学歴 (がくれき): academic background, academic credentials, academic record
+
+--- 漢字2(11-12) ---
+
+歴史 (れきし): history
+溶ける (とける): to melt, to thaw, to fuse; to dissolve
+理解 (りかい): understanding, comprehension, appreciation; sympathy
+国際電話 (こくさいでんわ): international phone call
+教師 (きょうし): teacher (classroom)
+構う (かまう): to mind, to care about, to be concerned about, to have a regard for; to be an issue, to matter, to create inconvenience; to keep company, to care for, to look after, to entertain, to pay attention to, to spend time with; to interfere with, to meddle in; to tease; to banish, to prohibit
+機構 (きこう): mechanism, machinery; system, structure, organization, framework
+成り立つ (なりたつ): to consist of, to be made up of, to be composed of; to be concluded (e.g. of an agreement), to hold true (e.g. of a theory), to be valid; to be viable (of a business, lifestyle, etc.), to carry on, to keep going
+構成 (こうせい): composition, construction, formation, makeup, structure, organization, organisation
+確かめる (たしかめる): to ascertain, to check, to make sure
+正確 (せいかく): accurate, correct, precise, exact
+認める (みとめる): to recognize, to recognise, to observe, to notice; to deem, to judge, to assess; to approve, to deem acceptable, to allow; to admit, to accept, to confess (to a charge); to watch steadily, to observe carefully; to renown, to give renown to, to appreciate, to acknowledge
+確認 (かくにん): confirmation, verification, validation, review, check, affirmation, identification
+
+--- 漢字2(13-14) ---
+
+文章 (ぶんしょう): writing, composition, essay, article, passage, prose, (writing) style; sentence
+声 (こえ): voice; singing (of a bird), chirping (of an insect), hoot; voice, opinion (as expressed in words), view, wish, attitude, will; sound; sense (of something's arrival), feeling; voice, voiced sound
+音声 (おんせい): voice, speech, sound of a voice; sound (e.g. of a TV)
+感じる (かんじる): to feel, to sense, to experience
+水準 (すいじゅん): level, standard; water level
+備える (そなえる): to furnish with, to equip with, to provide, to install; to prepare for, to make preparations for, to make provision for; to possess (all that is needed), to be endowed with, to be equipped with; to be born with, to have since birth
+準備 (じゅんび): preparation, arrangements, getting ready, provision, setup, reserving
+適当 (てきとう): suitable, proper, appropriate, adequate, fit, fair; perfunctory, half-minded, sloppy, lazy, careless, noncommittal, unreliable, irresponsible, haphazard
+箇所 (かしょ): place, point, part, spot, area, passage, portion; counter for places, parts, passages, etc.
+寮 (りょう): hostel, dormitory; bureau (government department beneath a ministry under the ritsuryō system); tea-ceremony room; villa
+
+--- 漢字2(15-16) ---
+
+生活 (せいかつ): life, living; livelihood, (one's) living
+対する (たいする): to face (each other), to be facing; to be directed toward (the future, etc.), to be in response to, to be related to; to receive (a client, etc.); to compare with, to contrast with, to be in opposition with, to be opposed to; to confront, to oppose, to compete with
+詳しい (くわしい): detailed, full, minute; knowing very well, knowledgeable (about), well-acquainted (with), well-informed (about), familiar (with)
+詳細 (しょうさい): details, particulars, specifics; detailed, specific, minute; close-up view (of a digitally displayed map), zoomed-in view
+目標 (もくひょう): goal, target, aim, objective; mark, sign, landmark
+天然 (てんねん): nature, spontaneity; natural airhead
+推移 (すいい): transition, change, progress, development, shift; passing (of time)
+治す (なおす): to cure, to heal; to fix, to correct, to repair; to do over again; to replace, to put back as it was; to convert (into a different state), to transform
+正直 (しょうじき): honest, frank, candid, straightforward; honestly, frankly
+直接 (ちょくせつ): direct, immediate, personal, firsthand
+丁目 (ちょうめ): district of a town, city block (of irregular size)
+丁重 (ていちょう): polite, courteous, hospitable
+
+--- 漢字2(17-18) ---
+
+丁寧 (ていねい): polite, courteous, civil; careful, close, thorough, conscientious
+普通 (ふつう): normal, ordinary, regular, usual, common, average; normally, ordinarily, usually, generally, commonly; local train, train that stops at every station
+事情 (じじょう): circumstances, conditions, situation, reasons, state of affairs
+一緒 (いっしょ): together; at the same time; same, identical
+情緒 (じょうちょ): emotion, feeling; atmosphere, mood, spirit
+仮 (かり): temporary, provisional, interim; fictitious, assumed (name), alias; hypothetical, theoretical
+仮定 (かてい): assumption, supposition, hypothesis; supposition
+仮名 (かな): kana, Japanese syllabary (i.e. hiragana, katakana)
+作る (つくる): to make, to produce, to manufacture, to build, to construct; to prepare (food), to brew (alcohol); to raise, to grow, to cultivate, to train; to till; to draw up (a document), to make out, to prepare, to write; to create (an artistic work, etc.), to compose; to coin (a phrase), to organize, to organise, to establish, to found; to have (a child); to make up (one's face, etc.); to fabricate (an excuse, etc.); to give a (false) appearance, to feign (a smile, etc.), to put on a show of emotion; to form (a line, etc.); to set (a record); to commit (a sin, etc.)
+構造 (こうぞう): structure, construction, makeup, framework, organization, pattern
+必修 (ひっしゅう): required (subject)
+飾る (かざる): to decorate, to ornament, to adorn; to display, to exhibit, to put on show, to arrange; to mark (e.g. the day with a victory), to adorn (e.g. the front page), to grace (e.g. the cover); to affect (a manner), to keep up (appearances), to embellish, to dress up, to be showy, to be pretentious
+修飾 (しゅうしょく): ornamentation, embellishment, decoration, adornment; modification, qualification
+
+--- 漢字2(19-20) ---
+
+位 (くらい): throne, crown, (nobleman's) seat; government position, court rank; social standing, rank, class, echelon, rung; grade (of quality, etc.), level, tier, rank; position of a figure (e.g. tens, thousands), digit, (decimal) place; degree, extent, amount
+位置 (いち): place, position, location; position, standing, status, situation
+語彙 (ごい): vocabulary, lexicon, lexis, terminology
+欠かせない (かかせない): indispensable, vital, fundamental, imperative, crucial, critical
+不可欠 (ふかけつ): indispensable, essential
+席 (せき): seat; location (of a gathering, etc.), place; position, post
+黙る (だまる): to be silent, to say nothing
+黙認 (もくにん): connivance, tacit consent, toleration, acquiescence
+邪悪 (じゃあく): wicked, evil
+風邪 (かぜ): (common) cold, influenza, flu, ague, inflammatory respiratory system illness (in general)
+痛い (いたい): painful, sore; cringy, embarrassing; exceeding
+頭痛 (ずつう): headache
+展開 (てんかい): development, evolution, progression, unfolding, (plot) twist; expansion, spreading out, extending, deployment, building up; expansion (of an algebraic expression); development (of a three-dimensional shape); extraction (of compressed data), decompression, unpacking
+
+--- 漢字2(21-22) ---
+
+失う (うしなう): to lose; to miss (a chance, opportunity); to lose (a loved one), to be bereaved of; to concede (goals, points, etc.)
+失業 (しつぎょう): unemployment; losing one's job, becoming unemployed
+失礼 (しつれい): discourtesy, impoliteness; excuse me, goodbye; to leave; to be rude
+所属 (しょぞく): belonging to (a group, organization, etc.), affiliation (with), being attached to, being under the control of
+謝る (あやまる): to apologize, to apologise
+感謝 (かんしゃ): thanks, gratitude, appreciation, thankfulness
+求める (もとめる): to want, to wish for; to request, to demand, to require, to ask for; to seek, to search for, to look for, to pursue (pleasure), to hunt (a job); to purchase, to buy
+要求 (ようきゅう): demand, firm request, requisition, requirement, desire
+順番 (じゅんばん): turn (in line), order of things, sequential order
+申す (もうす): to say, to be called; to do
+申告 (しんこく): report, return (e.g. tax), statement, declaration, notification, filing
+在留 (ざいりゅう): residing (esp. abroad), staying, living
+
+--- 漢字2(23-24) ---
+
+付ける (つける): to attach, to join, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment); to furnish (a house with); to wear, to put on; to keep a diary, to make an entry; to appraise, to set (a price); to allot, to budget, to assign; to bring alongside; to place (under guard or doctor); to follow, to shadow; to load, to give (courage to); to keep (an eye on); to establish (relations or understanding); to turn on (light); to produce flowers, to produce fruit; to do intensely
+付近 (ふきん): neighborhood, neighbourhood, vicinity, environs, surrounding area, district
+即時 (そくじ): prompt, immediate, in real time
+応える (こたえる): to respond, to answer, to meet (e.g. demands, expectations); to affect, to take a toll, to strike home, to have an effect on, to be hard on someone (e.g. heat, cold, work, illness, etc.), to be a strain
+応答 (おうとう): reply, answer, response
+事故 (じこ): accident, incident, trouble; circumstances, reasons
+乗り換える (のりかえる): to transfer (trains), to change (bus, train); to change (to another ideology, party, company, etc.), to switch (to a different system, method, etc.), to move on to (e.g. a new love interest)
+変換 (へんかん): change, conversion, transformation; transformation
+効く (きく): to be effective, to take effect, to be good (for); to work, to function well; to be possible (to do, use, etc.), to be able to; to taste (alcohol), to try
+有効 (ゆうこう): valid, effective; yuko (judo)
+効率 (こうりつ): efficiency
+引率 (いんそつ): leading, guiding, commanding
+単語 (たんご): word, vocabulary
+
+--- 漢字2(25-26) ---
+
+先ほど (さきほど): a short while ago, a moment ago, just now, some time ago
+程度 (ていど): degree, amount, grade, standard, of the order of (following a number), about, approximately
+途中 (とちゅう): on the way, en route; in the middle of, midway, halfway
+助ける (たすける): to save, to rescue; to help, to assist; to support (financially), to contribute (to), to provide aid; to facilitate, to stimulate, to promote, to contribute to
+助詞 (じょし): particle, postpositional word in Japanese grammar that functions as an auxiliary to a main word
+提出 (ていしゅつ): presentation (of documents), submission (of an application, report, etc.), production (e.g. of evidence), introduction (e.g. of a bill), filing, turning in
+信じる (しんじる): to believe, to believe in, to place trust in, to confide in, to have faith in
+宛てる (あてる): to address
+件名 (けんめい): subject, title; subject (of an email), subject line
+添える (そえる): to garnish, to accompany (as a card does a gift); to add to as support, to prop up; to accompany (as an aid, guide, translator, etc.); to mimic, to imitate; to draw something near to oneself, to approach nearby
+添付 (てんぷ): attaching (documents, etc.), appending, affixing
+
+--- 漢字2(27-28) ---
+
+熱い (あつい): hot (to the touch); passionate (feelings, etc.), ardent, hot (e.g. gaze); hot (e.g. temper); zealous, enthusiastic, fired up; intense, severe, extreme; hot (topic), of interest
+熱 (ねつ): heat; fever, temperature; zeal, passion, enthusiasm, mania, craze, rage
+労力 (ろうりょく): labour, labor, effort, toil, trouble
+疲れる (つかれる): to get tired, to tire, to get fatigued, to become exhausted, to grow weary; to become worn out (of a well-used object); to starve
+疲労 (ひろう): fatigue, weariness, exhaustion, tiredness
+不便 (ふべん): inconvenience, inexpediency, unhandiness
+水不足 (みずぶそく): water shortage, shortage of water supply
+自己紹介 (じこしょうかい): self-introduction
+届 (とどけ): report, notification, registration
+資料 (しりょう): materials, data, document
+機械 (きかい): machine, mechanism; instrument, appliance, apparatus
+
+--- 漢字2(29-30) ---
+
+お客様 (おきゃくさま): guest, visitor; customer, client, shopper, spectator, audience, tourist, sightseer, passenger
+様子 (ようす): state, state of affairs, situation, circumstances; appearance, look, aspect; sign, indication
+導く (みちびく): to guide, to lead, to show the way, to conduct; to derive, to deduce
+指導 (しどう): guidance, leadership, instruction, direction, coaching; shido (disciplinary action for a minor infringement of the rules of judo)
+天気予報 (てんきよほう): weather forecast, weather report
+夜更かし (よふかし): staying up late, keeping late hours, sitting up late at night, nighthawk
+更に (さらに): furthermore, again, after all, more and more, moreover, even more
+更新 (こうしん): renewal, update, replacement, renovation, breaking (a record)
+都合 (つごう): circumstances, condition, convenience; to arrange, to manage; to lend money, to raise money; in all, in total, all told
+都市 (とし): town, city, municipal, urban
+伺う (うかがう): to call on someone, to call at a place, to pay a visit, to wait on someone; to ask, to inquire; to hear, to be told; to implore (a god for an oracle), to seek direction (from your superior); to speak to (a large crowd at a theatre, etc.)
+忙しい (いそがしい): busy, occupied, hectic; restless, hurried, fidgety
+原稿 (げんこう): manuscript, copy, draft, notes, contribution
+
+--- 漢字2(31-32) ---
+
+削る (けずる): to shave (wood, leather, etc.), to sharpen (e.g. pencil), to plane, to whittle, to pare, to scrape off, to erode; to cut down (budget, expenses, staff, time, etc.), to curtail, to reduce; to delete, to erase, to remove, to cross out, to strike out
+添削 (てんさく): correction, looking over, touching up
+履く (はく): to put on (lower-body clothing, e.g. pants, skirt, footwear), to wear; to affix (a sword to one's hip); to affix (a bowstring to a bow)
+履修 (りしゅう): taking (a class), studying, completion (of a course)
+学籍 (がくせき): school register
+拝見 (はいけん): seeing, looking at
+研修 (けんしゅう): training (esp. in-service), induction course
+研究 (けんきゅう): study, research, investigation
+慣れる (なれる): to get used to, to grow accustomed to, to become familiar with; to become skilled in, to become experienced at; to become tame, to become domesticated; to get used to doing
+習慣 (しゅうかん): habit; (social) custom, practice, convention
+皆さん (みなさん): all, everyone, everybody
+
+--- 漢字2(33-34) ---
+
+博物館 (はくぶつかん): museum
+君 (きみ): you, buddy, pal; monarch, ruler, sovereign, (one's) master; he, she
+君 (くん): Mr (junior), master, boy
+泳ぐ (およぐ): to swim; to struggle through (a crowd); to make one's way through the world, to get along (in life); to totter, to lose one's balance
+水泳 (すいえい): swimming
+感想 (かんそう): impressions, thoughts, feelings, reactions
+健全 (けんぜん): healthy, sound, wholesome
+健康 (けんこう): health; healthy, sound, fit, wholesome
+派手 (はで): showy, loud, gay, flashy, gaudy
+使う (つかう): to use (a tool, method, etc.), to make use of, to put to use; to use (a person, animal, puppet, etc.), to employ, to handle, to manage, to manipulate; to use (time, money, etc.), to spend, to consume; to use (language), to speak
+派遣 (はけん): dispatch, despatch, deployment; temporary employee (esp. from an agency), temporary worker, agency temp
+
+--- 漢字2(35-36) ---
+
+選ぶ (えらぶ): to choose, to select
+選手 (せんしゅ): player (of a sport), athlete, team member
+流れる (ながれる): to stream, to flow (liquid, time, etc.), to run (ink); to be washed away, to be carried; to drift, to float (e.g. clouds), to wander, to stray; to sweep (e.g. rumour, fire), to spread, to circulate; to be heard (e.g. music), to be played; to lapse (e.g. into indolence, despair); to pass, to elapse, to be transmitted; to be called off, to be forfeited; to disappear, to be removed
+交流 (こうりゅう): exchange (e.g. cultural), interchange, interaction, mingling, mixing, coming together; alternating current, AC
+了解 (りょうかい): comprehension, consent, understanding, agreement; OK, roger
+省 (しょう): ministry, department; province (of China); saving, conserving
+内省 (ないせい): introspection, reflection on one's self
+省略 (しょうりゃく): omission, abbreviation, abridgment, abridgement
+優しい (やさしい): tender, kind, gentle, graceful, affectionate, amiable
+優れる (すぐれる): to surpass, to outstrip, to excel
+優先 (ゆうせん): preference, priority, precedence
+高齢 (こうれい): advanced age, old age
+誕生日 (たんじょうび): birthday
+
+--- 漢字2(37-38) ---
+
+守る (まもる): to protect, to guard, to defend; to keep (i.e. a promise), to abide (by the rules), to observe, to obey, to follow
+留守電 (るすでん): answering machine, answerphone
+引っ越し (ひっこし): moving (dwelling, office, etc.), changing residence
+防ぐ (ふせぐ): to defend against, to protect against; to prevent, to avert, to avoid
+消防車 (しょうぼうしゃ): fire engine, fire truck
+帽子 (ぼうし): hat, cap
+材料 (ざいりょう): materials, ingredients; material (for a novel, experiment, etc.), subject matter; grounds (for a decision, judgement, etc.), basis, evidence, data; (market) factor
+保証 (ほしょう): guarantee, security, assurance, pledge, warranty
+比べる (くらべる): to compare, to make a comparison; to compete, to vie
+比重 (ひじゅう): specific gravity, relative density; relative importance, weight
+比較 (ひかく): comparison
+
+--- 漢字2(39-40) ---
+
+僕 (ぼく): I, me; you; manservant
+異なる (ことなる): to differ, to vary, to disagree
+異文化 (いぶんか): different culture, foreign culture
+万年筆 (まんねんひつ): fountain pen
+断る (ことわる): to refuse, to reject, to dismiss, to turn down, to decline; to inform, to give notice, to tell in advance; to ask leave, to excuse oneself (from)
+断定 (だんてい): conclusion, decision, judgement, declaration; affirmative
+怒る (おこる): to get angry, to get mad; to tell someone off, to scold; to be angular, to be square
+怒り (いかり): anger, rage, fury, wrath, indignation
+独りよがり (ひとりよがり): self-conceit, self-satisfaction, self-righteousness, self-importance, complacency
+独身 (どくしん): bachelorhood, single, unmarried, celibate
+周り (まわり): circumference, girth; surroundings, neighbourhood, neighborhood, vicinity; people surrounding oneself, surrounding circumstances
+周 (しゅう): counter for laps or circuits; perimeter; Zhou dynasty (of China; approx. 1046-256 BCE), Chou dynasty
+減る (へる): to decrease (in size or number), to diminish, to abate
+減少 (げんしょう): decrease, reduction, decline
+
+--- 漢字2(41-42) ---
+
+背 (せ): back; reverse, rear side, back (e.g. of a chair), spine (of a book); height, stature; ridge (of a mountain)
+背後 (はいご): back, rear; background, behind the scenes
+敗北 (はいぼく): defeat, loss, reverse, setback
+敗れる (やぶれる): to be defeated, to be beaten, to be unsuccessful, to lose
+関わる (かかわる): to be affected, to be influenced; to be concerned with, to have to do with; to stick to (opinions)
+関する (かんする): to concern, to be related
+係 (かかり): charge, duty, person in charge, official, clerk; connection, linking
+関係 (かんけい): relation, relationship, connection; participation, involvement, concern; influence, effect; sexual relations, sexual relationship; related to, connected to
+離す (はなす): to separate, to part, to divide, to keep apart
+距離 (きょり): distance, range, interval; difference (e.g. in opinion), gap, distance
+増える (ふえる): to increase, to multiply
+増す (ます): to increase, to grow
+増加 (ぞうか): increase, rise, growth, addition, increment
+落ちる (おちる): to fall down, to drop, to fall (e.g. rain), to sink (e.g. sun or moon), to fall onto (e.g. light or one's gaze), to be used in a certain place (e.g. money); to be omitted, to be missing; to decrease, to sink; to fail (e.g. exam or class), to lose (contest, election, etc.); to crash, to degenerate, to degrade, to fall behind; to become indecent (of a conversation); to be ruined, to go under; to fade, to come out (e.g. a stain), to come off (e.g. makeup), to be removed (e.g. illness, possessing spirit, name on a list); to fall (into someone's hands), to become someone's possession; to fall (into a trap), to fall (for a trick); to give in, to give up, to confess, to flee; to fall, to be defeated, to surrender; to come to (in the end), to end in; to fall (in love, asleep, etc.); to swoon (judo); to consent, to understand; to go down (of a website, server, etc.), to crash; to log out (of an online game, chat room, etc.), to drop out, to leave, to go offline; to die; to move to the depths
+段落 (だんらく): paragraph; end, stopping place, conclusion
+
+--- 漢字2(43-44) ---
+
+句点 (くてん): period, full stop
+張る (はる): to stick, to paste, to affix; to stretch, to spread, to strain, to tighten, to put up (tent); to form (e.g. ice on a pond); to fill, to swell; to stick out, to put, to slap; to post (a link, etc. online); to be expensive; to keep a watch on, to be on the lookout; to become one tile away from completion; to span, to generate
+主張 (しゅちょう): claim, insistence, assertion, advocacy, emphasis, contention, opinion, tenet
+冷たい (つめたい): cold (to the touch), chilly, icy, freezing; (emotionally) cold, coldhearted, unfeeling, indifferent, unfriendly, distant
+冷やす (ひやす): to cool (from room temperature), to chill, to refrigerate; to calm down, to cool off, to regain one's composure, to relax; to be frightened (at), to be scared (of)
+冷静 (れいせい): calmness, composure, coolness, serenity, presence of mind
+蔵 (くら): warehouse, storehouse, cellar, magazine, granary, godown, depository, treasury, elevator
+冷蔵 (れいぞう): cold storage, refrigeration
+冷蔵庫 (れいぞうこ): refrigerator, fridge
+介入 (かいにゅう): intervention
+紹介 (しょうかい): introduction, presentation, referral
+予約 (よやく): reservation, appointment, booking, advance order; contract, subscription, pledge; programming (e.g. a device), setting (e.g. a timer)
+
+--- 漢字2(45-46) ---
+
+束ねる (たばねる): to tie up in a bundle (e.g. straw, hair, bills, letters), to bundle, to sheathe; to govern, to manage, to control, to administer; to fold (one's arms), to put together (one's hands)
+約束 (やくそく): promise, agreement, arrangement, one's word, contract, pact, appointment, engagement, date; convention, rule; destiny, fate
+胃 (い): stomach; Chinese ""stomach"" constellation (one of the 28 mansions)
+招く (まねく): to invite, to ask; to beckon, to wave someone in, to gesture to; to call in, to send for, to summon; to bring on oneself, to cause, to incur, to lead to, to result in
+招待 (しょうたい): invitation
+玄関 (げんかん): entrance, front door, entryway, entranceway, entry hall, vestibule, porch, foyer, mud room
+迷う (まよう): to lose one's way, to get lost; to waver, to hesitate, to be of two minds over, to be puzzled, to be perplexed; to give into temptation, to lose control of oneself; to be charmed, to be infatuated, to be captivated, to be smitten; to turn in one's grave
+迷信 (めいしん): superstition, superstitious belief
+惑う (まどう): to get lost, to lose one's bearings; to be puzzled, to be perplexed, to be confused, to be at a loss; to be tempted, to be seduced, to be captivated
+迷惑 (めいわく): trouble, bother, annoyance, nuisance, inconvenience; to be troubled (by), to be bothered (by), to be inconvenienced (by)
+満たす (みたす): to satisfy (conditions, one's appetite, etc.), to meet (e.g. demands), to fulfill, to gratify; to fill (e.g. a cup), to pack, to supply
+不満 (ふまん): dissatisfaction, discontent, displeasure, complaint, unhappiness
+生む (うむ): to give birth, to bear (child), to lay (eggs); to produce, to yield, to give rise to, to deliver
+生産 (せいさん): production, manufacture
+お土産 (おみやげ): local specialty or souvenir bought as a gift while travelling; present brought by a visitor; something unpleasant that one is given (e.g. an illness while on vacation), unwelcome gift, disservice
+
+--- 漢字2(47-48) ---
+
+笑う (わらう): to laugh; to smile; to sneer, to ridicule; to be dumbfounded, to be flabbergasted
+笑顔 (えがお): smiling face, smile
+嫌 (いや): disagreeable, detestable, unpleasant, reluctant
+嫌い (きらい): disliked, hated, disagreeable; tendency, smack (of), touch (of); distinction, discrimination
+事務室 (じむしつ): office (room)
+お菓子 (おかし): confections, sweets, candy, cake
+甘い (あまい): sweet-tasting, sweet, sugary, sugared; fragrant (smelling), sweet (music); lightly salted, light in salt, not spicy; naive, overly optimistic, soft on, generous, indulgent, easy-going, lenient; half-hearted, not finished properly; insufficient, not satisfactory, inadequate, loose; mild; tempting, enticing, luring
+甘味 (あまみ): sweetness, sugary taste; sweets, dessert, cake
+華道 (かどう): flower arrangement
+豪華 (ごうか): extravagant, lavish, opulent, luxurious, magnificent, splendid, fancy, gorgeous
+若い (わかい): young, youthful; immature, green; low (number), small
+
+--- 漢字2(49-50) ---
+
+女性 (じょせい): woman, female; feminine gender
+相性 (あいしょう): affinity, compatibility, chemistry (between people)
+月末 (げつまつ): end of the month
+指輪 (ゆびわ): (finger) ring
+車輪 (しゃりん): (vehicle) wheel
+机 (つくえ): desk
+大阪 (おおさか): Osaka (city, prefecture)
+泊まる (とまる): to stay at (e.g. hotel); to be docked, to be berthed, to be moored
+宿泊 (しゅくはく): accommodation, lodging
+同士 (どうし): fellow, mutual, companion, comrade
+博士 (はくし): doctor, PhD, Dr.; expert, learned person
+込む (こむ): to be crowded, to be packed, to be congested, to be thronged (with); to be complex, to be intricate; to go into, to go in, to put into; to become (completely); to do thoroughly, to do sufficiently; to remain (silent, seated, etc.), to stay ...
+
+--- 漢字2(51-52) ---
+
+簡単 (かんたん): simple, easy, uncomplicated; brief, quick, light
+現状 (げんじょう): present condition, existing state, status quo, current state
+状態 (じょうたい): state, condition, situation, appearance, circumstances
+結ぶ (むすぶ): to tie, to bind, to link; to bear (fruit); to close (e.g. deal), to confirm, to conclude; to connect (two distant places); to close tightly, to purse (e.g. lips); to unite (with), to ally, to join hands
+果たす (はたす): to accomplish, to achieve, to carry out, to fulfill, to fulfil, to realize, to execute, to perform, to do; to do ... completely, to do ... entirely
+結果 (けっか): result, consequence, outcome, effect; coming to fruition, bearing fruit; as a result, consequently, therefore
+果物 (くだもの): fruit
+米 (こめ): (husked grains of) rice; staple (product, etc.), necessity
+米国 (べいこく): (United States of) America, USA, US
+欧米 (おうべい): Europe and America, the West
+狭い (せまい): narrow, confined, small, cramped; limited, narrow-minded, confining
+
+--- 漢字2(53-54) ---
+
+追いかける (おいかける): to chase, to run after, to pursue
+追加 (ついか): addition, supplement, appending, appendix
+誰 (だれ): who
+他 (ほか): other (place, thing, person), the rest, et al.; outside, beyond; nothing except, nothing but, nothing apart from, nothing aside from, no choice (but to); besides..., in addition to...
+他人 (たにん): another person, other people, others; unrelated person (i.e. not related by blood); outsider, stranger
+寄る (よる): to approach, to draw near, to come near, to be close to; to gather (in one place), to come together, to meet; to stop by (while on one's way to another place), to drop by, to make a short visit; to grow old, to grow high (number, etc.); to grow (wrinkly); to lean against, to recline on; to push one's opponent while holding their belt; to decide on a price and come to a deal; to be swayed by (a person), to yield to
+寄付 (きふ): contribution, donation
+驚く (おどろく): to be surprised, to be astonished
+自動販売機 (じどうはんばいき): vending machine
+割引 (わりびき): discount, reduction, rebate; tenths discounted, tenths reduced
+割る (わる): to divide; to cut, to halve, to separate, to split, to rip; to break, to crack, to smash; to dilute; to fall below; to discount; to step over (a line, etc.)
+分割 (ぶんかつ): partition, division, separation, segmenting, splitting
+調査 (ちょうさ): investigation, examination, inquiry, enquiry, survey
+
+--- 漢字2(55-56) ---
+
+食堂 (しょくどう): dining room, dining hall, cafeteria, canteen, messroom; restaurant, eatery, snack bar, diner
+警告 (けいこく): warning, advice
+警察 (けいさつ): police; police officer; police station
+警察官 (けいさつかん): police officer, policeman, policewoman
+逃げる (にげる): to escape, to run away
+見逃す (みのがす): to miss, to overlook, to fail to notice; to let pass (a matter), to overlook (e.g. a wrongdoing), to turn a blind eye to; to pass up (e.g. an opportunity); to let (a good ball) go by
+荷物 (にもつ): luggage, baggage, package; burden; payload (of a packet, cell, etc.)
+出荷 (しゅっか): shipping, shipment, forwarding
+塩 (しお): salt, common salt, table salt, sodium chloride; hardship, toil, trouble; saltiness; cold, unwelcoming, indifferent
+塩分 (えんぶん): salt, salt content
+地上 (ちじょう): above ground, on the ground, earth's surface; this world, this earth
+地面 (じめん): ground, earth's surface
+心地 (ここち): feeling, sensation, mood; sensation of doing
+
+--- 漢字2(57-58) ---
+
+地震 (じしん): earthquake
+避ける (さける): to avoid (physical contact with); to avoid (situation); to ward off, to avert; to put aside, to move out of the way
+避難 (ひなん): taking refuge, finding shelter, evacuation, escape, seeking safe haven
+訓練 (くんれん): training, drill, practice, discipline
+民族 (みんぞく): people, race, nation, ethnic group, ethnos
+飛行機 (ひこうき): aeroplane, airplane, aircraft
+飛ぶ (とぶ): to fly, to soar; to jump, to leap, to spring, to bound, to hop; to spatter, to scatter, to splash, to fly (e.g. of sparks); to hurry, to rush; to flee, to run off, to escape; to disappear, to vanish, to fade, to thin out; to break off, to come off, to fall off, to blow (of a fuse); to be sent out (of an order), to fly (of false rumours, catcalls, etc.); to come flying (of a punch, kick, etc.); to be missing (of a page, stitch, etc.), to skip, to jump (e.g. of a conversation)
+役所 (やくしょ): government office, public office
+使役 (しえき): setting (someone) to work, employment, using; causative (verb, etc.)
+礼儀 (れいぎ): manners, courtesy, etiquette
+倒す (たおす): to throw down, to bring down, to blow down, to fell, to knock down, to set (something) down on its side, to turn (something) on its side, to recline (e.g. a seat); to kill, to defeat, to beat; to overthrow, to trip up, to ruin; to leave unpaid, to cheat
+転倒 (てんとう): falling down, tumbling, overturning, turning over; reversing, inverting, inversion; getting upset
+
+--- 漢字2(59-60) ---
+
+治る (なおる): to get better, to get well, to recover (from an illness), to be cured, to be restored, to heal
+行政 (ぎょうせい): administration, governance, the authorities, authority
+政治家 (せいじか): politician, statesman
+自治体 (じちたい): municipality, local government, self-governing body, autonomous body
+医療 (いりょう): medical care, medical treatment
+片仮名 (かたかな): katakana, angular Japanese syllabary used primarily for loanwords
+夜景 (やけい): night view, night skyline, nightscape
+景色 (けしき): scenery, scene, landscape
+宗教 (しゅうきょう): religion, religious affiliation, belief, faith, creed; religious activity
+伝統 (でんとう): tradition, convention
+紅茶 (こうちゃ): black tea
+
+--- 漢字2(61-62) ---
+
+観点 (かんてん): point of view
+地域 (ちいき): area, region
+気候 (きこう): climate
+咲く (さく): to bloom, to flower, to blossom, to open; to rise up (of breaking waves)
+賛成 (さんせい): approval, agreement, support, favour, favor
+算数 (さんすう): arithmetic; calculation
+成績 (せいせき): results, record, grades, marks
+平仮名 (ひらがな): hiragana, cursive Japanese syllabary used primarily for native Japanese words (esp. function words, inflections, etc.)
+平ら (たいら): flat, level, even, smooth; calm, tranquil, placid, composed, stable; relaxed (sitting posture), comfortable; plateau, tableland, plain
+公平 (こうへい): fairness, impartiality, justice, objectivity
+観 (カン): outlook, look, appearance, condition, view
+
+--- 漢字2(63-64) ---
+
+豊か (ゆたか): abundant, plentiful, rich, ample; rich, wealthy, affluent, well-off; open (mind), relaxed, easy; plump (e.g. breasts), full, ample; (well) over, (easily) in excess of
+豊作 (ほうさく): abundant harvest, bumper crop
+得る (える): to get, to earn, to acquire, to procure, to gain, to secure, to attain, to obtain, to win; to understand, to comprehend; to receive something undesirable (e.g. a punishment), to get (ill); to be able to ..., can ...
+得意 (とくい): satisfaction, pride, triumph, elation; one's strong point, one's forte, one's specialty; regular customer, regular client, patron
+逆らう (さからう): to go against, to oppose, to disobey, to defy
+逆 (ぎゃく): reverse, opposite; converse (of a hypothesis, etc.); inverse (function)
+お互い (おたがい): each other, one another
+相互 (そうご): mutual, reciprocal
+伸びる (のびる): to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.); to straighten out, to be flattened, to become smooth; to spread (of paint, cream, etc.); to stretch out (e.g. of a hand), to extend; to lose elasticity, to become slack, to become soggy (e.g. noodles); to make progress, to develop, to expand, to increase, to improve; to be exhausted, to be groggy, to pass out, to collapse; to be prolonged (meeting, life span, etc.), to be extended (e.g. deadline), to lengthen (e.g. of the days); to be postponed, to be delayed, to be put off
+与える (あたえる): to give (esp. to someone of lower status), to bestow, to grant, to confer, to present, to award; to provide, to afford, to offer, to supply; to assign; to cause; to pass (a variable to a function)
+貸与 (たいよ): loan, lending
+可能 (かのう): possible, potential, practicable, feasible
+趣味 (しゅみ): hobby, pastime; tastes, preference, liking
+
+--- 漢字2(65-66) ---
+
+幅広い (はばひろい): extensive, wide, broad
+増幅 (ぞうふく): amplification (elec.); magnification, amplification, making larger
+支える (ささえる): to support, to prop, to sustain, to underlay, to hold up, to defend; to hold at bay, to stem, to check
+支持 (しじ): support, backing, endorsement, approval; propping up, holding up, support
+反対 (はんたい): opposition, resistance, antagonism, hostility, objection, dissent; reverse, opposite, inverse, contrary
+論文 (ろんぶん): thesis, essay, treatise, paper, article
+否定 (ひてい): denial, negation, repudiation, disavowal; negation; NOT operation
+野菜 (やさい): vegetable
+穀物 (こくもつ): grain, cereal, corn
+害虫 (がいちゅう): harmful insect, noxious insect, vermin, pest
+
+--- 漢字2(67-68) ---
+
+殺す (ころす): to kill, to slay, to murder, to slaughter; to suppress, to block, to hamper, to destroy (e.g. talent), to eliminate (e.g. an odour), to spoil (e.g. a flavour), to kill (e.g. one's speed); to suppress (a voice, feelings, etc.), to hold back, to stifle (a yawn, laugh, etc.), to hold (one's breath); to put out (a runner); to pawn, to put in hock
+殺人 (さつじん): murder, homicide, manslaughter
+農薬 (のうやく): agricultural chemical (i.e. pesticide, herbicide, fungicide, etc.), agrochemical, agrichemical
+収入印紙 (しゅうにゅういんし): revenue stamp
+収穫 (しゅうかく): harvest, crop, ingathering; fruits (of one's labors), gain, result, returns
+少量 (しょうりょう): small quantity, small amount; narrowmindedness
+完全 (かんぜん): perfect, complete
+原因 (げんいん): cause, origin, source
+一環 (いっかん): link (e.g. in a chain of events), part (of a plan, campaign, activities, etc.); monocyclic
+
+--- 漢字2(69-70) ---
+
+境 (さかい): border, boundary; turning point, watershed; area, region, spot, space, environment; psychological state, mental state; cognitive object, something perceptible by the sense organs or mind
+環境 (かんきょう): environment, circumstance
+音響 (おんきょう): sound, noise, acoustics, reverberation, echo, audio
+影 (かげ): shadow, silhouette, figure, shape; reflection, image; ominous sign; light (stars, moon); trace, shadow (of one's former self)
+影響 (えいきょう): influence, effect, impact
+感染 (かんせん): infection, contagion, becoming infected; being infected (e.g. with harmful ideas), being influenced (by)
+汚い (きたない): dirty, filthy, foul, unclean; disordered, messy, untidy, poor (e.g. handwriting); indecent (language, etc.), dirty, vulgar, coarse; dastardly, mean, base, underhanded; stingy, greedy
+汚す (よごす): to pollute, to contaminate, to soil, to make dirty, to stain; to disgrace, to dishonour, to dishonor, to defile
+汚染 (おせん): pollution, contamination
+回路 (かいろ): circuit (electric); cycle (e.g. Krebs cycle)
+換える (かえる): to replace; to exchange, to interchange; to substitute
+代替 (だいたい): substitution; alternative, substitute
+携わる (たずさわる): to engage in, to participate in, to take part in, to be involved in
+連携 (れんけい): cooperation, coordination, link
+
+--- 漢字2(71-72) ---
+
+帯 (おび): obi, kimono sash; paper wrapper on books, CDs, etc.; band, belt, strip; cingulum; radio or television program broadcast in the same time slot on all or most days
+携帯 (けいたい): carrying (on one's person or in the hand); mobile phone, cell phone
+夢 (ゆめ): dream
+夢中 (むちゅう): absorbed in, immersed in, crazy about, obsessed with, devoted to; forgetting oneself, daze, trance, ecstasy, delirium; within a dream, while dreaming
+校舎 (こうしゃ): school building, schoolhouse
+田舎 (いなか): rural area, countryside, the sticks; hometown
+営む (いとなむ): to run (a business), to operate, to conduct, to practice (law, medicine, etc.); to carry out, to perform, to lead (a life); to hold (a Buddhist or Shinto ceremony)
+経営 (けいえい): management, administration, operation, running (a business), conducting
+福 (ふく): good fortune, happiness, blessing, good luck
+福祉 (ふくし): welfare, well-being, social welfare, social security, social service
+働く (はたらく): to work, to labor, to labour; to function, to operate, to be effective, to work (i.e. ... works), to come into play; to commit (e.g. a crime), to perpetrate, to do, to act, to practise, to practice; to be conjugated
+実働 (じつどう): actual work
+政策 (せいさく): political measures, policy
+
+--- 漢字2(73-74) ---
+
+取り除く (とりのぞく): to remove, to deinstall, to take away, to set apart
+除外 (じょがい): exception, exclusion
+掃除 (そうじ): cleaning, sweeping, dusting, scrubbing
+会議 (かいぎ): meeting, conference, session, assembly, council, convention, congress
+共に (ともに): together, jointly; at the same time, with, as ..., including, along with; both
+共通 (きょうつう): common, shared, mutual; to be common (to), to be shared (by); -wide
+世界 (せかい): the world, society, the universe; sphere, circle, world; world-renowned, world-famous; realm governed by one Buddha, space
+済む (すむ): to finish, to end, to be completed; to merely result in something less severe than expected; to feel at ease; to feel unease or guilt for troubling someone, to be sorry
+返済 (へんさい): repayment, reimbursement, refund, redemption
+翻訳 (ほんやく): translation; deciphering, decoding; translation
+誤る (あやまる): to make a mistake (in), to commit an error, to do incorrectly, to err; to be wrong, to be incorrect, to be false, to be mistaken; to mislead, to misguide, to lead astray
+誤解 (ごかい): misunderstanding
+
+--- 漢字2(75-76) ---
+
+深い (ふかい): deep; profound; dense, thick; close (relationship); intense, strong; late
+水深 (すいしん): depth of water
+刻む (きざむ): to mince, to cut fine, to chop up, to hash, to shred; to carve, to engrave, to chisel, to notch; to tick away (time), to beat out (e.g. rhythm), to record the passing moments; to etch (into one's mind), to remember distinctly; to have tattooed; to torment
+遅刻 (ちこく): lateness, tardiness, arriving late
+陥る (おちいる): to fall into (e.g. a hole); to fall into (chaos, depression, dilemma, illness, etc.); to fall into (a trap, etc.); to fall, to surrender, to capitulate
+軽視 (けいし): making light of, thinking little of, slighting, belittling, dismissing, contempt, disdain
+状況 (じょうきょう): state of affairs, situation, conditions, circumstances
+及ぼす (およぼす): to exert (influence), to exercise, to cause (e.g. damage), to do (e.g. harm), to bring about (e.g. benefits), to extend, to have an effect (on)
+普及 (ふきゅう): diffusion, spread, popularization, promulgation, familiarization
+各 (かく): each, every, all
+制度 (せいど): system, institution, organization, organisation
+
+--- 漢字2(77-78) ---
+
+廃止 (はいし): abolition, discontinuance, discontinuation, repeal, annulment
+人柄 (ひとがら): personality, character, personal appearance, gentility
+判断 (はんだん): judgment, judgement, decision, conclusion, adjudication; divination; judgement
+大判 (おおばん): large size (paper, book, etc.); ōban, large oval gold coin used in the Edo period
+計る (はかる): to measure, to weigh, to survey, to time (sound, gauge, estimate); to conjecture, to infer, to surmise
+予測 (よそく): prediction, estimation
+総合 (そうごう): synthesis, combination, integration, putting together; synthesis, colligation
+右側 (みぎがわ): right side, right-hand side
+側面 (そくめん): side, flank, profile, sidelight, lateral; aspect, dimension
+負う (おう): to bear, to carry on one's back; to take responsibility for, to accept a duty; to receive (wound), to incur (damage), to be injured; to owe
+負荷 (ふか): burden; load (electrical, CPU, etc.)
+担う (になう): to carry on one's shoulder, to shoulder, to bear; to bear (burden, responsibility, etc.), to take upon oneself
+負ける (まける): to lose, to be defeated; to succumb, to give in, to surrender, to yield; to be inferior to; to break out in a rash due to (e.g. lacquer, shaving, etc.); to reduce the price, to give a discount, to throw in (something extra) for free
+負担 (ふたん): burden, load, responsibility; bearing (a cost, responsibility, etc.), shouldering
+
+--- 漢字2(79-80) ---
+
+複数 (ふくすう): plural, multiple, several
+組 (くみ): class (of students); group (of people), party, team, crew; lot, bunch, set; crime family, organized-crime syndicate; set (of items), assortment, deck (of cards), pack; typesetting, composition
+仕組み (しくみ): structure, construction, arrangement, contrivance, mechanism, workings; plan, plot, contrivance
+充てる (あてる): to assign, to set aside
+充実 (じゅうじつ): fullness, completeness, perfection, substantiality; enhancement, improvement, enrichment, upgrading; replenishment, repletion
+平均 (へいきん): average, mean; balance, equilibrium
+長寿 (ちょうじゅ): long life, longevity
+命 (いのち): life, life force; lifetime, lifespan; most important thing, foundation, core; paired tattoos of the ""life"" kanji on the upper arms of a man and woman (indicating unwavering love); fate, destiny, karma
+生命 (せいめい): life, existence; (one's) working life, career; life force, lifeblood, soul, essence
+寿命 (じゅみょう): life span
+伸びる (のびる): to stretch, to extend, to lengthen, to grow (of hair, height, grass, etc.); to straighten out, to be flattened, to become smooth; to spread (of paint, cream, etc.); to stretch out (e.g. of a hand), to extend; to lose elasticity, to become slack, to become soggy (e.g. noodles); to make progress, to develop, to expand, to increase, to improve; to be exhausted, to be groggy, to pass out, to collapse; to be prolonged (meeting, life span, etc.), to be extended (e.g. deadline), to lengthen (e.g. of the days); to be postponed, to be delayed, to be put off
+延長 (えんちょう): extension, elongation, prolongation, lengthening; Enchō era (923.4.11-931.4.26)
+越える (こえる): to cross over, to cross, to pass through, to pass over (out of), to go beyond, to go past; to exceed, to surpass, to be more (than)
+超過 (ちょうか): excess, being more than
+
+--- 漢字2(81-82) ---
+
+輸送 (ゆそう): transport, transportation
+養う (やしなう): to support, to maintain, to provide for; to bring up, to raise, to rear, to feed; to adopt (a child); to cultivate (a habit, a quality, etc.), to develop, to build up, to foster; to recuperate (from injury, illness, etc.)
+教養 (きょうよう): cultivation, refinement, culture, education
+栄養 (えいよう): nutrition, nourishment
+亡くなる (なくなる): to die
+死亡 (しぼう): death, dying, mortality
+抱く (いだく): to hold in one's arms (e.g. a baby), to embrace, to hug; to have (a thought or feeling), to hold, to harbour (suspicion, doubt, etc.), to harbor, to bear (a grudge, ill will, etc.), to entertain (hope, illusions, etc.), to cherish (e.g. an ambition)
+抱える (かかえる): to hold in one's arms, to carry in one's arms, to carry under one's arm, to hold (one's head) in one's hands; to have (problems, debts, etc.), to take on (a responsibility), to be burdened with (e.g. care of a family member), to have (children, etc.) to provide for; to employ, to have (on one's staff), to hire
+含む (ふくむ): to contain, to comprise, to have, to hold, to include, to embrace; to hold in the mouth; to bear in mind, to understand, to harbor (grudge, etc.), to harbour; to express (emotion, etc.), to imply
+暮らす (くらす): to live, to get along; to spend (time)
+屋根 (やね): roof
+大根 (だいこん): daikon (variety of large white Oriental radish, Raphanus sativus var. longipinnatus); ham actor
+
+--- 漢字2(83-84) ---
+
+拠り所 (よりどころ): grounds, foundation, authority; support, prop, something upon which to rely
+根拠 (こんきょ): basis, grounds, foundation, reason, authority; base (of operations)
+証拠 (しょうこ): evidence, proof
+疑う (うたがう): to doubt, to distrust, to be suspicious of, to suspect
+疑問 (ぎもん): doubt, question, suspicion, dubiousness
+諸君 (しょくん): you (people); gentlemen, ladies and gentlemen, my friends, everyone
+諸般 (しょはん): various, several
+常に (つねに): always, constantly
+常識 (じょうしき): common sense, good sense, common knowledge, general knowledge, common practice, accepted practice, social etiquette
+整える (ととのえる): to put in order, to arrange, to tidy up, to straighten, to adjust, to fix; to get ready, to prepare, to arrange, to supply, to assemble, to buy; to work out (e.g. business deal), to arrange (e.g. marriage), to settle
+整理 (せいり): sorting, arrangement, organization, putting in order, adjustment, regulation; liquidation, settlement, consolidation, clearance (e.g. debt), paying off; retrenchment, curtailment, cutting down, disposal
+築く (きずく): to build, to construct, to erect; to amass (e.g. fortune), to pile up
+建築 (けんちく): construction, architecture (of buildings)
+触る (さわる): to touch, to feel; to get involved (with), to approach; to be harmful to, to hinder, to interfere with, to irritate
+触れる (ふれる): to touch, to feel; to touch (with); to experience, to come in contact with, to perceive; to touch on (a subject), to allude to, to refer to, to mention, to bring up; to be in conflict with, to violate (law, copyright, etc.), to infringe; to proclaim, to make known, to spread (e.g. a rumour)
+接触 (せっしょく): touch, contact, touching
+
+--- 漢字2(85-86) ---
+
+点検 (てんけん): inspection, examination, checking
+検討 (けんとう): consideration, examination, investigation, study, scrutiny, discussion, analysis, review
+富む (とむ): to be rich in, to abound in, to be abundant in, to be full of; to be rich, to be wealthy
+富士山 (ふじさん): Mount Fuji, Mt. Fuji, Fujiyama, Fuji-san
+項目 (こうもく): item, heading, category, clause; headword (in a dictionary, encyclopedia, etc.), entry
+抜け (ぬけ): omission, slip, error, fault; definition (of photograph), sharpness, clarity (sound), flow
+選抜 (せんばつ): selection, choice, picking out; National Invitational High-School Baseball Tournament
+分析 (ぶんせき): analysis
+端 (はし): end (e.g. of street), tip, point, edge, margin; beginning, start, first; odds and ends, scrap, odd bit, least
+端数 (はすう): fraction, odd amount, leftover amount
+先端 (せんたん): pointed end, tip, point, cusp (of a leaf, crescent moon, etc.), apex (of a curve); forefront, vanguard, spearhead, leading edge
+浮かぶ (うかぶ): to float, to be suspended; to rise to the surface, to appear, to emerge, to show up, to loom (up); to come to mind, to have inspiration
+
+--- 漢字2(87-88) ---
+
+枝 (えだ): branch, bough, limb, twig, sprig, spray
+動画 (どうが): video (esp. digital), video clip, clip; animation, animated cartoon; in-betweens (animation)
+計画 (けいかく): plan, project, schedule, scheme, program, programme
+映し出す (うつしだす): to project, to show; to portray, to depict, to describe, to reflect
+映画 (えいが): movie, film, motion picture
+混む (こむ): to be crowded, to be packed, to be congested, to be thronged (with)
+混ぜる (まぜる): to mix, to stir, to blend
+混同 (こんどう): confusion, mixing, merger
+混乱 (こんらん): disorder, chaos, confusion, mayhem
+受講 (じゅこう): taking a lecture, attending a class, taking a course
+講義 (こうぎ): lecture
+植える (うえる): to plant, to grow, to raise; to insert, to transplant, to implant, to set (type); to inoculate (e.g. an infectious agent); to instill (idea, value, etc.), to inculcate
+植物 (しょくぶつ): plant, vegetation
+
+--- 漢字2(89-90) ---
+
+加盟 (かめい): joining (an association, agreement, etc.), participation, affiliation, accession
+商学部 (しょうがくぶ): business school (in a university), faculty of commerce
+設ける (もうける): to prepare, to provide; to set up, to establish, to organize, to lay down (rules), to make (an excuse)
+設立 (せつりつ): establishment, founding; incorporation (of a business)
+腕 (うで): arm; skill, efforts, ability
+腕力 (わんりょく): physical strength, brute strength, arm strength
+傾き (かたむき): slope, inclination, list; tendency, trend, bent, disposition, bias; slope (of a linear function)
+傾向 (けいこう): tendency, trend, inclination
+至る (いたる): to arrive at (e.g. a decision), to reach (a stage), to attain; to lead to (a place), to get to; in the extreme case of; to come, to arrive, to result in
+近郊 (きんこう): outskirts, environs (of a city), surrounding area, surroundings
+象 (ぞう): elephant (Elephantidae spp.)
+対象 (たいしょう): target, object (of worship, study, etc.), subject (of taxation, etc.)
+
+--- 漢字2(91-92) ---
+
+施す (ほどこす): to give (time, money, goods), to donate; to do, to perform, to conduct; to apply (processing, makeup, etc.), to add (e.g. ornamentation, annotation); to sow, to seed, to scatter (e.g. fertilizer), to sprinkle; to spread far and wide
+実施 (じっし): enforcement, implementation, putting into practice, carrying out, operation, working (e.g. working parameters), enactment
+型 (かた): type, style, model, pattern; mold, mould, model, pattern, template, impression; kata (set sequence of positions and movements in martial arts), style (in kabuki, noh, etc.), form; convention, tradition, (standard) form, formula, usage; (set) size, inches (in sizes of displays, disks, image sensors, etc.); (taxonomical) form
+類型 (るいけい): type, pattern, shape, genre, breed; similar type, similar pattern
+徐々 (じょじょ): slow, gradual, steady; calm, composed, relaxed
+費やす (ついやす): to spend, to expend, to consume; to waste, to squander, to throw away; to devote
+費用 (ひよう): cost, expense
+欲しい (ほしい): wanting (to have), desiring, wishing for; I want (you, them, etc.) to (do)
+意欲 (いよく): will, desire, interest, ambition, urge (e.g. creative urge)
+記憶 (きおく): memory, recollection, remembrance; memory, storage
+長期 (ちょうき): long-term
+脳 (のう): brain; brains, mind
+
+--- 漢字2(93-94) ---
+
+繰り返す (くりかえす): to repeat, to do something over again
+返却 (へんきゃく): return of something, repayment
+窓 (まど): window
+穴 (あな): hole, opening, perforation; pit, hollow, hole (in the ground, etc.); burrow, den, lair, holt, hole; deficit, shortage, missing person (in a team, meeting, etc.); vacancy, opening; flaw; well-kept secret place; upset victory (with a large payoff); pit (of a theater); hiding place, hideout; underbelly (of society, etc.)
+裏 (うら): opposite side, bottom, other side, side hidden from view, undersurface, reverse side; rear, back, behind; lining, inside; in the shadows, behind the scenes, offstage, behind (someone's) back; more (to something than meets the eye), hidden side (e.g. of one's personality), unknown circumstances, different side; proof; opposite (of a prediction, common sense, etc.), contrary; inverse (of a hypothesis, etc.); bottom (of an inning), last half (of an inning)
+個 (こ): counter for articles; counter for military units; individual
+夫婦 (ふうふ): married couple, husband and wife, man and wife; his and hers, pair of objects, one larger (for man), one smaller (for woman)
+彼女 (かのじょ): she, her; girlfriend
+彼 (かれ): he, him; boyfriend
+
+--- 漢字2(95-96) ---
+
+幼い (おさない): very young, little; childish, immature
+幼虫 (ようちゅう): larva, grub, maggot
+地下鉄 (ちかてつ): underground train, subway
+無い (ない): nonexistent, not being (there); unowned, not had, unpossessed; unique; not, impossible, won't happen; not; to not be, to have not
+無理 (むり): unreasonable, unnatural, unjustifiable; impossible; forcible, forced, compulsory; excessive (work, etc.), immoderate; to work too hard, to try too hard; no way, not a chance, never, dream on; irrational
+無難 (ぶなん): safe (e.g. choice), secure, innocuous, inoffensive; acceptable, passable, satisfactory, adequate, faultless, without flaw
+無駄 (むだ): futility, waste, uselessness, pointlessness, idleness
+評論 (ひょうろん): criticism, critique
+粘り強い (ねばりづよい): tenacious, persevering, persistent, stubborn, steadfast; sticky
+粘着 (ねんちゃく): cohesion, adhesion
+張る (はる): to stick, to paste, to affix; to stretch, to spread, to strain, to tighten, to put up (tent); to form (e.g. ice on a pond); to fill, to swell; to stick out, to put, to slap; to post (a link, etc. online); to be expensive; to keep a watch on, to be on the lookout; to become one tile away from completion; to span, to generate
+付箋 (ふせん): sticky note, tag, slip, label, Post-it note
+
+--- 漢字2(97-98) ---
+
+洗剤 (せんざい): detergent, cleanser, cleaning agent, washing material
+殺虫剤 (さっちゅうざい): insecticide, pesticide
+接着剤 (せっちゃくざい): adhesive, glue
+同僚 (どうりょう): coworker, co-worker, colleague, associate
+挟む (はさむ): to hold between (e.g. one's fingers, chopsticks), to grip (from both sides); to put between, to sandwich between, to insert, to interpose; to catch (e.g. a finger in a door), to trap, to pinch; to insert (e.g. a break into proceedings), to interpose (e.g. an objection), to interject, to throw in (e.g. a joke); to be on either side of (a road, table, etc.), to have between each other, to be across (a street, river, etc.); to harbour (feelings), to cast (e.g. doubt)
+爆発 (ばくはつ): explosion, detonation, eruption; eruption (of discontent, etc.), outburst, outpouring
+筒 (つつ): pipe, tube, cylinder; gun barrel; gun, cannon; well lining, well curb
+床 (ゆか): floor; stage (for the narrator and the shamisen player); dining platform built across a river
+克服 (こくふく): conquest (of a difficulty, illness, crisis, etc.), overcoming, surmounting, bringing under control
+隠す (かくす): to hide, to conceal
+
+--- 漢字2(99-100) ---
+
+概念 (がいねん): general idea, concept, notion
+悩み (なやみ): trouble, troubles, worry, distress, sorrows, anguish, agony, problem
+お酒 (おさけ): alcohol, sake
+日本酒 (にほんしゅ): sake (rice wine), saké
+条件 (じょうけん): condition, term, requirement, qualification, prerequisite
+未満 (みまん): less than, under, below
+猿 (さる): monkey (esp. the Japanese macaque, Macaca fuscata), ape, non-human primate; sly person; idiot, hick; sliding wooden bolt (for holding a door or window shut); clasp used to control the height of a pot-hook; bathhouse prostitute
+類人猿 (るいじんえん): anthropoid ape, anthropoid, ape
+猫 (ねこ): cat (esp. the domestic cat, Felis catus); shamisen; geisha; wheelbarrow; clay bed-warmer; bottom, submissive partner of a homosexual relationship
+豚 (ぶた): pig (Sus scrofa domesticus); pork; fatso, fatty
+
