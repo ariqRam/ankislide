@@ -14,7 +14,6 @@ function shuffleArray<T>(originalArray: ReadonlyArray<T>): T[] {
 }
 
 const folderPath = './input';
-
 const files: string[] = fs.readdirSync(folderPath);
 
 files.forEach(file => {
@@ -56,7 +55,7 @@ files.forEach(file => {
 				align: "center",
 				color: "000000",
 				fontSize: 36,
-			})
+			});
 		}
 		pptx.writeFile({ fileName: `./output/${file}.pptx` });
 		index += numOfWordsPerPpt;
