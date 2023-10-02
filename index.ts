@@ -31,4 +31,3 @@ for (let day in weeklyDate) {
 	}
 	pptxs.forEach((pptx, index) => { pptx.writeFile({ fileName: `${monthlyFolderPath}/${PPT_ORDER[index]}.pptx` }) })
 }
-

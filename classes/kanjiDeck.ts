@@ -53,13 +53,12 @@ class KanjiDeck {
 
 	parseKanjiEntries(pageRange: string): KanjiJson[] | undefined {
 		// Use a regular expression to find the section in the full text
-		const regex = new RegExp(`--- 漢字2\\(${pageRange}\\) ---\n\n([^---]*)`, 's');
+		const regex = new RegExp(`--- 漢字2\\(${pageRange}\\) ---\n\n((?:(?!--- 漢字2\\().)*\n*)`, 's');
 		const match = this.database.match(regex);
 
 		if (!match) return undefined;
 
 		const sectionText = match[1];
-		console.log(sectionText)
 		const lines = sectionText.trim().split('\n');
 
 		// Map the lines to the desired structure
