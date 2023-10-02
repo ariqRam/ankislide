@@ -38,16 +38,11 @@ class KanjiDeck {
 		return pptx;
 	}
 
-	createAllPptx(): void {
+	createAllPptx(): PptxGenJS[] {
 		this.writingPptx = this.createPptxByKanjiJson(this.writing!, this.writingPptx);
 		this.readingPptx = this.createPptxByKanjiJson(this.reading!, this.readingPptx);
 		this.newPptx = this.createPptxByKanjiJson(this.new!, this.newPptx);
-	}
-
-	saveAllPptx(absPath: string): void {
-		this.writingPptx.writeFile({ fileName: `${absPath}/writing.pptx` });
-		this.readingPptx.writeFile({ fileName: `${absPath}/reading.pptx` });
-		this.newPptx.writeFile({ fileName: `${absPath}/new.pptx` });
+		return [this.writingPptx, this.readingPptx, this.newPptx];
 	}
 
 	parseDatabaseToJSON(): void {
@@ -64,6 +59,7 @@ class KanjiDeck {
 		if (!match) return undefined;
 
 		const sectionText = match[1];
+		console.log(sectionText)
 		const lines = sectionText.trim().split('\n');
 
 		// Map the lines to the desired structure

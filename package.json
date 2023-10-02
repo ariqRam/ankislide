@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@types/readline-sync": "^1.4.5",
     "pptxgenjs": "^3.12.0"
   }
 }

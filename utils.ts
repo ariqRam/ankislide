@@ -8,49 +8,68 @@ const rl = readline.createInterface({
 	output: process.stdout
 });
 
-// function getUserInput(): number[] {
-// 	let prompt: string = 'Is there a holiday this week? (1 for yes, 0 for no): ';
-// 	const holidayExists: boolean = rl.question(prompt, (answer: string) => {
-// 		rl.close();
-// 		return !!parseInt(answer);
-// 	})
+function getUserInput(): number[] {
+	let prompt: string = 'Is there a holiday this week? (1 for yes, 0 for no): ';
+	const holidayExists: boolean = rl.question(prompt, (answer: string) => {
+		rl.close();
+		return !!parseInt(answer);
+	})
 
-// 	if (holidayExists) {
-// 		prompt = 'Which days (except for 土日)? (separated by space, use "0 1 2 3 4"): ';
-// 		const days: number[] = rl.question(prompt, (answer: string) => {
-// 			rl.close();
-// 			return answer.split(' ').forEach(day => {
-// 				return parseInt(day);
-// 			});
-// 		});
-// 		return days;
-// 	}
+	if (holidayExists) {
+		prompt = 'Which days (except for 土日)? (separated by space, use "0 1 2 3 4"): ';
+		const days: number[] = rl.question(prompt, (answer: string) => {
+			rl.close();
+			return answer.split(' ').forEach(day => {
+				return parseInt(day);
+			});
+		});
+		return days;
+	}
 
-// 	return [];
-// }
+	return [];
+}
 
-// function getWeeklyDate(): string[] {
-// 	const touDate = new Date();
-// 	// set date to monday
-// 	touDate.setDate(touDate.getDate() - touDate.getDay() + 1);
+function getWeeklyDateDepr(): string[] {
+	const touDate = new Date();
+	// set date to monday
+	touDate.setDate(touDate.getDate() - touDate.getDay() + 1);
 
-// 	const thisWeekDates: Date[] = Array<Date>(5);
+	const thisWeekDates: Date[] = Array<Date>(5);
 
-// 	for (let i = 0; i < 5; i++) {
-// 		thisWeekDates[i] = new Date(touDate);
-// 		touDate.setDate(touDate.getDate() + 1);
-// 	}
+	for (let i = 0; i < 5; i++) {
+		thisWeekDates[i] = new Date(touDate);
+		touDate.setDate(touDate.getDate() + 1);
+	}
 
-// 	const thisWeekDatesFormatted: string[] = thisWeekDates.map(date => {
-// 		return `${date.getFullYear()}/${date.getMonth() + 1}/${date.getDate()}`;
-// 	})
+	const thisWeekDatesFormatted: string[] = thisWeekDates.map(date => {
+		return `${date.getFullYear()}-${date.getMonth() + 1}-${date.getDate()}`;
+	});
 
-// 	getUserInput().forEach(day => {
-// 		thisWeekDatesFormatted[day] = "yasumi";
-// 	})
+	return thisWeekDatesFormatted;
+}
 
-// 	return thisWeekDatesFormatted;
-// }
+function getWeeklyDate(): string[] {
+	const touDate = new Date();
+	// set date to monday
+	touDate.setDate(touDate.getDate() - touDate.getDay() + 1);
+
+	const thisWeekDates: Date[] = Array<Date>(5);
+
+	for (let i = 0; i < 5; i++) {
+		thisWeekDates[i] = new Date(touDate);
+		touDate.setDate(touDate.getDate() + 1);
+	}
+
+	const thisWeekDatesFormatted: string[] = thisWeekDates.map(date => {
+		return `${date.getFullYear()}-${date.getMonth() + 1}-${date.getDate()}`;
+	})
+
+	getUserInput().forEach(day => {
+		thisWeekDatesFormatted[day] = "yasumi";
+	})
+
+	return thisWeekDatesFormatted; // ["2021-1-1", "2021-1-2", "2021-1-3", "2021-1-4", "yasumi"]
+}
 
 function shuffleArray<T>(originalArray: ReadonlyArray<T>): T[] {
 	let array = [...originalArray];  // Create a copy
@@ -100,5 +119,4 @@ function createSlide(kanjiJson: KanjiJson, slide: PptxGenJS.Slide) {
 	})
 }
 
-// export { getUserInput, getWeeklyDate, shuffleArray, createSlides };
-export { shuffleArray, createSlides };
+export { getUserInput, getWeeklyDate, getWeeklyDateDepr, shuffleArray, createSlides };
