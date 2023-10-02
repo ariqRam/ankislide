@@ -1,6 +1,9 @@
+import PptxGenJS from "pptxgenjs";
+import { createSlides } from "../utils";
+
 const fs = require('fs');
 
-type KanjiJson = { kanji: string; reading: string; meaning: string[]; };
+type KanjiJson = { pageRange: string, kanji: string; reading: string; meaning: string[]; };
 
 class KanjiDeck {
 	private database: string;
@@ -10,19 +13,41 @@ class KanjiDeck {
 	private readingPageRange: string;
 	private newPageRange: string;
 
-	private writing: KanjiJson[] | undefined;
+	public writing: KanjiJson[] | undefined;
 	private reading: KanjiJson[] | undefined;
 	private new: KanjiJson[] | undefined;
 
+	private writingPptx: PptxGenJS = new PptxGenJS();
+	private readingPptx: PptxGenJS = new PptxGenJS();
+	private newPptx: PptxGenJS = new PptxGenJS();
+
 	constructor(database: string, startingPage: number) {
 		this.database = database
-		this.parseDatabaseToJSON(); // generate KanjiJson
 
 		this.startingPage = startingPage;
+
 
 		this.writingPageRange = `${startingPage}-${startingPage + 1}`; // generate writing page range, e.g. "7-8"
 		this.readingPageRange = `${startingPage + 2}-${startingPage + 3}`; // "9-10"
 		this.newPageRange = `${startingPage + 4}-${startingPage + 5}`; // "11-12"
+		this.parseDatabaseToJSON(); // generate KanjiJson
+	}
+
+	createPptxByKanjiJson(kanjiJsons: KanjiJson[], pptx: PptxGenJS): PptxGenJS {
+		createSlides(kanjiJsons, pptx);
+		return pptx;
+	}
+
+	createAllPptx(): void {
+		this.writingPptx = this.createPptxByKanjiJson(this.writing!, this.writingPptx);
+		this.readingPptx = this.createPptxByKanjiJson(this.reading!, this.readingPptx);
+		this.newPptx = this.createPptxByKanjiJson(this.new!, this.newPptx);
+	}
+
+	saveAllPptx(absPath: string): void {
+		this.writingPptx.writeFile({ fileName: `${absPath}/writing.pptx` });
+		this.readingPptx.writeFile({ fileName: `${absPath}/reading.pptx` });
+		this.newPptx.writeFile({ fileName: `${absPath}/new.pptx` });
 	}
 
 	parseDatabaseToJSON(): void {
@@ -47,6 +72,7 @@ class KanjiDeck {
 			const [kanji, reading] = left.trim().split(' ').map(s => s.replace(/[()]/g, '').trim());
 			const meanings = right.split(';').map(s => s.trim());
 			return {
+				pageRange,
 				kanji,
 				reading,
 				meaning: meanings
@@ -54,4 +80,4 @@ class KanjiDeck {
 		});
 	}
 }
-export { KanjiDeck };
+export { KanjiDeck, KanjiJson };
