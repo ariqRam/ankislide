@@ -1,20 +1,28 @@
+const fs = require('fs');
+
 type KanjiJson = { kanji: string; reading: string; meaning: string[]; };
 
 class KanjiDeck {
+	private database: string;
+
 	private startingPage: number;
 	private writingPageRange: string;
 	private readingPageRange: string;
 	private newPageRange: string;
 
-	private writing: KanjiJson | undefined;
-	private reading: KanjiJson | undefined;
-	private new: KanjiJson | undefined;
+	private writing: KanjiJson[] | undefined;
+	private reading: KanjiJson[] | undefined;
+	private new: KanjiJson[] | undefined;
 
-	constructor(startingPage: number) {
+	constructor(database: string, startingPage: number) {
+		this.database = database
+		this.parseDatabaseToJSON(); // generate KanjiJson
+
 		this.startingPage = startingPage;
-		this.writingPageRange = `${startingPage}-${startingPage + 1}`;
-		this.readingPageRange = `${startingPage + 2}-${startingPage + 3}`;
-		this.newPageRange = `${startingPage + 4}-${startingPage + 5}`;
+
+		this.writingPageRange = `${startingPage}-${startingPage + 1}`; // generate writing page range, e.g. "7-8"
+		this.readingPageRange = `${startingPage + 2}-${startingPage + 3}`; // "9-10"
+		this.newPageRange = `${startingPage + 4}-${startingPage + 5}`; // "11-12"
 	}
 
 	parseDatabaseToJSON(): void {
@@ -23,20 +31,27 @@ class KanjiDeck {
 		this.new = this.parseKanjiEntries(this.newPageRange);
 	}
 
-	parseKanjiEntries(pageRange: string): { kanji: string, reading: string, meaning: string[] } | undefined {
-		const pattern = /(\S+) \((\S+)\): (.+?)(?=;|$)/g;
+	parseKanjiEntries(pageRange: string): KanjiJson[] | undefined {
+		// Use a regular expression to find the section in the full text
+		const regex = new RegExp(`--- 漢字2\\(${pageRange}\\) ---\n\n([^---]*)`, 's');
+		const match = this.database.match(regex);
 
-		let match;
-		if ((match = pattern.exec(pageRange)) !== null) {
-			const kanji = match[1];
-			const reading = match[2];
-			const meanings = match[3].split(';').map(str => str.trim());
+		if (!match) return undefined;
 
-			return { kanji, reading, meaning: meanings }
-		} else {
-			console.log("parseKanjiEntries failed to parse text");
-		}
+		const sectionText = match[1];
+		const lines = sectionText.trim().split('\n');
+
+		// Map the lines to the desired structure
+		return lines.map(line => {
+			const [left, right] = line.split(':');
+			const [kanji, reading] = left.trim().split(' ').map(s => s.replace(/[()]/g, '').trim());
+			const meanings = right.split(';').map(s => s.trim());
+			return {
+				kanji,
+				reading,
+				meaning: meanings
+			};
+		});
 	}
 }
-
 export { KanjiDeck };
