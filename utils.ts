@@ -13,7 +13,7 @@ function getUserInput(): number[] {
 	})
 
 	if (holidayExists) {
-		prompt = 'Which days (except for 土日)? (separated by space, use "1 2 3 4 5"): ';
+		prompt = 'Which days (except for 土日)? (separated by space, use "0 1 2 3 4 5"): ';
 		const days: number[] = rl.question(prompt, (answer: string) => {
 			rl.close();
 			return answer.split(' ').forEach(day => {
@@ -23,5 +23,20 @@ function getUserInput(): number[] {
 		return days;
 	}
 
-	return [0];
+	return [];
 }
+
+function getWeeklyDate(): Date[] {
+	const thisWeeksMonday = new Date();
+	thisWeeksMonday.setDate(thisWeeksMonday.getDate() - thisWeeksMonday.getDay() + 1);
+
+	const thisWeekDates: Date[] = [];
+
+	for (let i = 0; i < 5; i++) {
+		thisWeekDates.push(new Date(thisWeeksMonday));
+		thisWeeksMonday.setDate(thisWeeksMonday.getDate() + 1);
+	}
+	return thisWeekDates;
+}
+
+export { getUserInput, getWeeklyDate };
