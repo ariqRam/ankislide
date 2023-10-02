@@ -31,8 +31,8 @@ function getUserInput(): number[] {
 
 function getWeeklyDateDepr(starting: string, yasumi: number[]): string[] {
 	let touDate = new Date();
-	if (starting === "next") {
-		touDate.setDate(touDate.getDate() + 7);
+	if (starting) {
+		touDate = new Date(starting);
 	}
 	// set date to monday
 	touDate.setDate(touDate.getDate() - touDate.getDay() + 1);
