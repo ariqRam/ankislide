@@ -13,7 +13,7 @@ function getUserInput(): number[] {
 	})
 
 	if (holidayExists) {
-		prompt = 'Which days (except for 土日)? (separated by space, use "0 1 2 3 4 5"): ';
+		prompt = 'Which days (except for 土日)? (separated by space, use "0 1 2 3 4"): ';
 		const days: number[] = rl.question(prompt, (answer: string) => {
 			rl.close();
 			return answer.split(' ').forEach(day => {
@@ -26,17 +26,27 @@ function getUserInput(): number[] {
 	return [];
 }
 
-function getWeeklyDate(): Date[] {
-	const thisWeeksMonday = new Date();
-	thisWeeksMonday.setDate(thisWeeksMonday.getDate() - thisWeeksMonday.getDay() + 1);
+function getWeeklyDate(): string[] {
+	const touDate = new Date();
+	// set date to monday
+	touDate.setDate(touDate.getDate() - touDate.getDay() + 1);
 
-	const thisWeekDates: Date[] = [];
+	const thisWeekDates: Date[] = Array<Date>(5);
 
 	for (let i = 0; i < 5; i++) {
-		thisWeekDates.push(new Date(thisWeeksMonday));
-		thisWeeksMonday.setDate(thisWeeksMonday.getDate() + 1);
+		thisWeekDates[i] = new Date(touDate);
+		touDate.setDate(touDate.getDate() + 1);
 	}
-	return thisWeekDates;
+
+	const thisWeekDatesFormatted: string[] = thisWeekDates.map(date => {
+		return `${date.getFullYear()}/${date.getMonth() + 1}/${date.getDate()}`;
+	})
+
+	getUserInput().forEach(day => {
+		thisWeekDatesFormatted[day] = "yasumi";
+	})
+
+	return thisWeekDatesFormatted;
 }
 
 export { getUserInput, getWeeklyDate };

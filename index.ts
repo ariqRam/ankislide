@@ -26,38 +26,48 @@ files.forEach(file => {
 
 
 	let index = 0;
-	const numOfWordsPerPpt = 100;
 	while (index < randRows.length) {
-
+		const N = 100;
 		let pptx = new PptxGenJS();
-		for (let row of randRows.slice(index, index + numOfWordsPerPpt > randRows.length ? randRows.length : index + numOfWordsPerPpt)) {
-			let slide = pptx.addSlide();
-			row = row.replaceAll(",\"", "|")
-			let [kanji, reading, meaning] = row.split('|');
-			kanji = kanji.replaceAll("\"", "");
-			reading = reading.replaceAll("\"", "");
-			meaning = meaning.replaceAll("\"", "");
-			const card = `${kanji}\n${reading}`
-			slide.addText(`${card}`, {
-				x: 0,
-				y: 1,
-				w: "100%",
-				h: 2,
-				align: "center",
-				color: "000000",
-				fontSize: 48,
-			});
-			slide.addText(`${meaning.slice(0, 121)}...`, {
-				x: 0,
-				y: 3,
-				w: "100%",
-				h: 2,
-				align: "center",
-				color: "000000",
-				fontSize: 36,
-			});
-		}
+
+		createNSlides(N, index, randRows, pptx);
+
 		pptx.writeFile({ fileName: `./output/${file}.pptx` });
-		index += numOfWordsPerPpt;
+		index += N;
 	}
+
 });
+
+function createNSlides(N: number, index: number, contents: string[], pptx: PptxGenJS) {
+	for (let row of contents.slice(index, index + N > contents.length ? contents.length : index + N)) {
+		let slide = pptx.addSlide();
+		row = row.replaceAll(",\"", "|");
+		createSlide(row, slide);
+	}
+}
+
+function createSlide(row: string, slide: PptxGenJS.Slide) {
+	let [kanji, reading, meaning] = row.split('|');
+	kanji = kanji.replaceAll("\"", "");
+	reading = reading.replaceAll("\"", "");
+	meaning = meaning.replaceAll("\"", "");
+	const card = `${kanji}\n${reading}`;
+	slide.addText(`${card}`, {
+		x: 0,
+		y: 1,
+		w: "100%",
+		h: 2,
+		align: "center",
+		color: "000000",
+		fontSize: 48,
+	});
+	slide.addText(`${meaning.slice(0, 121)}...`, {
+		x: 0,
+		y: 3,
+		w: "100%",
+		h: 2,
+		align: "center",
+		color: "000000",
+		fontSize: 36,
+	});
+}
