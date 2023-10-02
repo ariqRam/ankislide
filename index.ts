@@ -12,7 +12,8 @@ const PPT_ORDER = ['writing', 'reading', 'new'];
 
 const dbFile: string = fs.readFileSync('./kanji.txt', 'utf8');
 
-const weeklyDate: string[] = getWeeklyDateDepr();
+const weeklyDate: string[] = getWeeklyDateDepr("this", []);
+console.log(weeklyDate)
 
 for (let day in weeklyDate) {
 	if (weeklyDate[day] === "yasumi") {
@@ -21,7 +22,11 @@ for (let day in weeklyDate) {
 	const deck = new KanjiDeck(dbFile, DEFAULT_STARTING_PAGE);
 
 	const pptxs: PptxGenJS[] = deck.createAllPptx();
-	const absPath = path.join(import.meta.dir, 'output');
+	const touDate: Date = new Date(weeklyDate.find(date => date !== "yasumi")!);
+	console.log(touDate)
+	const dateFromMonday = touDate.getDate() - touDate.getDay() + 1;
+	// console.log(`${touDate.getMonth() + 1}|${dateFromMonday}-${dateFromMonday + 4}`);
+	const absPath = path.join(import.meta.dir, `${touDate.getMonth() + 1}|${dateFromMonday}-${dateFromMonday + 4}`);
 	const monthlyFolderPath = `${absPath}/${weeklyDate[day]}`
 	if (!fs.existsSync(monthlyFolderPath)) {
 		fs.mkdirSync(monthlyFolderPath, { recursive: true });

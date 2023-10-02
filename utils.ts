@@ -29,8 +29,11 @@ function getUserInput(): number[] {
 	return [];
 }
 
-function getWeeklyDateDepr(): string[] {
-	const touDate = new Date();
+function getWeeklyDateDepr(starting: string, yasumi: number[]): string[] {
+	let touDate = new Date();
+	if (starting === "next") {
+		touDate.setDate(touDate.getDate() + 7);
+	}
 	// set date to monday
 	touDate.setDate(touDate.getDate() - touDate.getDay() + 1);
 
@@ -44,6 +47,10 @@ function getWeeklyDateDepr(): string[] {
 	const thisWeekDatesFormatted: string[] = thisWeekDates.map(date => {
 		return `${date.getFullYear()}-${date.getMonth() + 1}-${date.getDate()}`;
 	});
+
+	yasumi.forEach(day => {
+		thisWeekDatesFormatted[day] = "yasumi";
+	})
 
 	return thisWeekDatesFormatted;
 }
