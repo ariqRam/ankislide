@@ -3,7 +3,7 @@ import { createSlides } from "../utils";
 
 const fs = require('fs');
 
-type KanjiJson = { pageRange: string, kanji: string; reading: string; meaning: string[]; };
+type KanjiJson = { pageRange: string, kanji: string; reading: string | null; meaning: string[]; };
 
 class KanjiDeck {
 	private database: string;
@@ -17,9 +17,6 @@ class KanjiDeck {
 	private reading: KanjiJson[] | undefined;
 	private new: KanjiJson[] | undefined;
 
-	private writingPptx: PptxGenJS = new PptxGenJS();
-	private readingPptx: PptxGenJS = new PptxGenJS();
-	private newPptx: PptxGenJS = new PptxGenJS();
 
 	constructor(database: string, startingPage: number) {
 		this.database = database
@@ -33,16 +30,21 @@ class KanjiDeck {
 		this.parseDatabaseToJSON(); // generate KanjiJson
 	}
 
-	createPptxByKanjiJson(kanjiJsons: KanjiJson[], pptx: PptxGenJS): PptxGenJS {
+	createPptxByKanjiJson(kanjiJsons: KanjiJson[], pptx: PptxGenJS, withoutReading: boolean = false): PptxGenJS {
+		if (withoutReading) {
+			kanjiJsons = kanjiJsons.filter(kanjiJson => kanjiJson.reading === null);
+		}
 		createSlides(kanjiJsons, pptx);
 		return pptx;
 	}
 
 	createAllPptx(): PptxGenJS[] {
-		this.writingPptx = this.createPptxByKanjiJson(this.writing!, this.writingPptx);
-		this.readingPptx = this.createPptxByKanjiJson(this.reading!, this.readingPptx);
-		this.newPptx = this.createPptxByKanjiJson(this.new!, this.newPptx);
-		return [this.writingPptx, this.readingPptx, this.newPptx];
+		const writingPptx = this.createPptxByKanjiJson(this.writing!, new PptxGenJS());
+		const readingPptx = this.createPptxByKanjiJson(this.reading!, new PptxGenJS());
+		const newPptx = this.createPptxByKanjiJson(this.new!, new PptxGenJS());
+		const readingNoReadingPptx = this.createPptxByKanjiJson(this.reading!.filter(kanjiJson => kanjiJson.reading !== null), new PptxGenJS());
+		const writingNoReadingPptx = this.createPptxByKanjiJson(this.writing!.filter(kanjiJson => kanjiJson.reading !== null), new PptxGenJS());
+		return [writingPptx, readingPptx, newPptx, readingNoReadingPptx, writingNoReadingPptx];
 	}
 
 	parseDatabaseToJSON(): void {

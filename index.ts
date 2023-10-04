@@ -9,7 +9,7 @@ const path = require('path');
 
 // where is kanji and goi at Oct 2?
 const DEFAULT_STARTING_PAGE = 59;
-const DEFAULT_STARTING_PAGE_GOI = 466;
+const DEFAULT_STARTING_PAGE_GOI = 451;
 const PPT_ORDER = ['writing', 'reading', 'new'];
 const PPT_ORDER_GOI = ['current', 'new'];
 
@@ -46,6 +46,14 @@ for (let day in weeklyDate) {
 	} else {
 		console.log('Folder already exists');
 	}
-	pptxs.forEach((pptx, index) => { pptx.writeFile({ fileName: `${monthlyFolderPath}/kanji-${PPT_ORDER[index]}.pptx` }) })
-	pptxsGoi.forEach((pptx, index) => { pptx.writeFile({ fileName: `${monthlyFolderPath}/goi-${PPT_ORDER_GOI[index]}.pptx` }) })
+
+	pptxs[0].writeFile({ fileName: `${monthlyFolderPath}/kanji-writing.pptx` })
+	pptxs[1].writeFile({ fileName: `${monthlyFolderPath}/kanji-reading.pptx` })
+	pptxs[2].writeFile({ fileName: `${monthlyFolderPath}/kanji-new.pptx` })
+
+	pptxsGoi[0].writeFile({ fileName: `${monthlyFolderPath}/goi-current.pptx` })
+	pptxsGoi[1].writeFile({ fileName: `${monthlyFolderPath}/goi-new.pptx` })
+
+	// pptxs.forEach((pptx, index) => { pptx.writeFile({ fileName: `${monthlyFolderPath}/kanji-${PPT_ORDER[index]}.pptx` }) })
+	// pptxsGoi.forEach((pptx, index) => { pptx.writeFile({ fileName: `${monthlyFolderPath}/goi-${PPT_ORDER_GOI[index]}.pptx` }) })
 }
