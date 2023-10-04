@@ -10,13 +10,13 @@ const path = require('path');
 // where is kanji and goi at Oct 2?
 const DEFAULT_STARTING_PAGE = 59;
 const DEFAULT_STARTING_PAGE_GOI = 451;
-const PPT_ORDER = ['writing', 'reading', 'new'];
+const PPT_ORDER = ['writing', 'reading', 'new', 'readingKanjiOnly', 'writingKanjiOnly', 'todaysTest'];
 const PPT_ORDER_GOI = ['current', 'new'];
 
 const kanjiTxt: string = fs.readFileSync('./kanji.txt', 'utf8');
 const goiTxt: string = fs.readFileSync('./goi.txt', 'utf8');
 
-const weeklyDate: string[] = getWeeklyDateDepr("2023-10-2", []);
+const weeklyDate: string[] = getWeeklyDateDepr("2023-10-2", [2]);
 console.log(weeklyDate)
 
 for (let day in weeklyDate) {
@@ -47,13 +47,13 @@ for (let day in weeklyDate) {
 		console.log('Folder already exists');
 	}
 
-	pptxs[0].writeFile({ fileName: `${monthlyFolderPath}/kanji-writing.pptx` })
-	pptxs[1].writeFile({ fileName: `${monthlyFolderPath}/kanji-reading.pptx` })
-	pptxs[2].writeFile({ fileName: `${monthlyFolderPath}/kanji-new.pptx` })
+	// pptxs[0].writeFile({ fileName: `${monthlyFolderPath}/kanji-writing.pptx` })
+	// pptxs[1].writeFile({ fileName: `${monthlyFolderPath}/kanji-reading.pptx` })
+	// pptxs[2].writeFile({ fileName: `${monthlyFolderPath}/kanji-new.pptx` })
 
-	pptxsGoi[0].writeFile({ fileName: `${monthlyFolderPath}/goi-current.pptx` })
-	pptxsGoi[1].writeFile({ fileName: `${monthlyFolderPath}/goi-new.pptx` })
+	// pptxsGoi[0].writeFile({ fileName: `${monthlyFolderPath}/goi-current.pptx` })
+	// pptxsGoi[1].writeFile({ fileName: `${monthlyFolderPath}/goi-new.pptx` })
 
-	// pptxs.forEach((pptx, index) => { pptx.writeFile({ fileName: `${monthlyFolderPath}/kanji-${PPT_ORDER[index]}.pptx` }) })
-	// pptxsGoi.forEach((pptx, index) => { pptx.writeFile({ fileName: `${monthlyFolderPath}/goi-${PPT_ORDER_GOI[index]}.pptx` }) })
+	pptxs.forEach((pptx, index) => { pptx.writeFile({ fileName: `${monthlyFolderPath}/kanji-${PPT_ORDER[index]}.pptx` }) })
+	pptxsGoi.forEach((pptx, index) => { pptx.writeFile({ fileName: `${monthlyFolderPath}/goi-${PPT_ORDER_GOI[index]}.pptx` }) })
 }

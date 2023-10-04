@@ -41,10 +41,11 @@ class KanjiDeck {
 	createAllPptx(): PptxGenJS[] {
 		const writingPptx = this.createPptxByKanjiJson(this.writing!, new PptxGenJS());
 		const readingPptx = this.createPptxByKanjiJson(this.reading!, new PptxGenJS());
+		const todaysTestPptx = this.createPptxByKanjiJson(this.reading!.concat(this.writing!), new PptxGenJS());
 		const newPptx = this.createPptxByKanjiJson(this.new!, new PptxGenJS());
-		const readingNoReadingPptx = this.createPptxByKanjiJson(this.reading!.filter(kanjiJson => kanjiJson.reading !== null), new PptxGenJS());
-		const writingNoReadingPptx = this.createPptxByKanjiJson(this.writing!.filter(kanjiJson => kanjiJson.reading !== null), new PptxGenJS());
-		return [writingPptx, readingPptx, newPptx, readingNoReadingPptx, writingNoReadingPptx];
+		const readingKanjiOnly = this.createPptxByKanjiJson(this.reading!.filter(kanjiJson => kanjiJson.reading !== null), new PptxGenJS());
+		const writingKanjiOnly = this.createPptxByKanjiJson(this.writing!.filter(kanjiJson => kanjiJson.reading !== null), new PptxGenJS());
+		return [writingPptx, readingPptx, newPptx, readingKanjiOnly, writingKanjiOnly, todaysTestPptx];
 	}
 
 	parseDatabaseToJSON(): void {
