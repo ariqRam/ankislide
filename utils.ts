@@ -97,31 +97,40 @@ function createSlides(kanjiJsons: KanjiJson[], pptx: PptxGenJS) {
 }
 
 function createSlide(kanjiJson: KanjiJson, slide: PptxGenJS.Slide) {
-	slide.addText(`${kanjiJson.kanji}\n${kanjiJson.reading}`, {
+	slide.addText(`${kanjiJson.kanji}`, {
 		x: 0,
-		y: 1,
+		y: 0.6,
 		w: "100%",
 		h: 2,
 		align: "center",
 		color: "000000",
 		fontSize: 48,
 	});
+	slide.addText(`\n\n${kanjiJson.reading}`, {
+		x: 0,
+		y: 1,
+		w: "100%",
+		h: 2,
+		align: "center",
+		color: "404040",
+		fontSize: 36,
+	})
 	slide.addText(`${kanjiJson.meaning.join(" | ").slice(0, 121)}...`, {
 		x: 0,
 		y: 3,
 		w: "100%",
 		h: 2,
 		align: "center",
-		color: "000000",
+		color: "808080",
 		fontSize: 36,
 	});
 	slide.addText(kanjiJson.pageRange, {
 		x: 0,
-		y: 5,
-		w: "80%",
+		y: 4,
+		w: "95%",
 		h: 2,
-		align: "left",
-		color: "000000",
+		align: "right",
+		color: "808080",
 		fontSize: 24,
 	})
 }

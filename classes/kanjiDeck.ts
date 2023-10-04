@@ -3,12 +3,11 @@ import { createSlides } from "../utils";
 
 const fs = require('fs');
 
-type KanjiJson = { pageRange: string, kanji: string; reading: string | null; meaning: string[]; };
+type KanjiJson = { pageRange: string, kanji: string; reading: string; meaning: string[]; };
 
 class KanjiDeck {
 	private database: string;
 
-	private startingPage: number;
 	private writingPageRange: string;
 	private readingPageRange: string;
 	private newPageRange: string;
@@ -20,9 +19,6 @@ class KanjiDeck {
 
 	constructor(database: string, startingPage: number) {
 		this.database = database
-
-		this.startingPage = startingPage;
-
 
 		this.writingPageRange = `${startingPage}-${startingPage + 1}`; // generate writing page range, e.g. "7-8"
 		this.readingPageRange = `${startingPage + 2}-${startingPage + 3}`; // "9-10"
@@ -43,9 +39,17 @@ class KanjiDeck {
 		const readingPptx = this.createPptxByKanjiJson(this.reading!, new PptxGenJS());
 		const todaysTestPptx = this.createPptxByKanjiJson(this.reading!.concat(this.writing!), new PptxGenJS());
 		const newPptx = this.createPptxByKanjiJson(this.new!, new PptxGenJS());
-		const readingKanjiOnly = this.createPptxByKanjiJson(this.reading!.filter(kanjiJson => kanjiJson.reading !== null), new PptxGenJS());
-		const writingKanjiOnly = this.createPptxByKanjiJson(this.writing!.filter(kanjiJson => kanjiJson.reading !== null), new PptxGenJS());
-		return [writingPptx, readingPptx, newPptx, readingKanjiOnly, writingKanjiOnly, todaysTestPptx];
+		const readingKanjiOnly = this.reading!.map((kanjiJson) => {
+			kanjiJson.reading = "";
+			return kanjiJson;
+		})
+		const writingKanjiOnly = this.writing!.map((kanjiJson) => {
+			kanjiJson.reading = "";
+			return kanjiJson;
+		});
+		const writingKanjiOnlyPptx = this.createPptxByKanjiJson(writingKanjiOnly, new PptxGenJS());
+		const readingKanjiOnlyPptx = this.createPptxByKanjiJson(readingKanjiOnly, new PptxGenJS());
+		return [writingPptx, readingPptx, newPptx, readingKanjiOnlyPptx, writingKanjiOnlyPptx, todaysTestPptx];
 	}
 
 	parseDatabaseToJSON(): void {
