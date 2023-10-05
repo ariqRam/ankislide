@@ -56,6 +56,7 @@ class KanjiDeck {
 		this.writing = this.parseKanjiEntries(this.writingPageRange);
 		this.reading = this.parseKanjiEntries(this.readingPageRange);
 		this.new = this.parseKanjiEntries(this.newPageRange);
+		console.log(this.writingPageRange);
 	}
 
 	parseKanjiEntries(pageRange: string): KanjiJson[] | undefined {

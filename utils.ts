@@ -90,6 +90,7 @@ function shuffleArray<T>(originalArray: ReadonlyArray<T>): T[] {
 }
 
 function createSlides(kanjiJsons: KanjiJson[], pptx: PptxGenJS) {
+	console.log(kanjiJsons)
 	for (let kanjiJson of kanjiJsons) {
 		const slide = pptx.addSlide();
 		createSlide(kanjiJson, slide);

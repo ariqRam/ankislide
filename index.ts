@@ -19,16 +19,22 @@ const goiTxt: string = fs.readFileSync('./goi.txt', 'utf8');
 const weeklyDate: string[] = getWeeklyDateDepr("2023-10-2", [2]);
 console.log(weeklyDate)
 
+let startingPage = DEFAULT_STARTING_PAGE;
+let startingPageGoi = DEFAULT_STARTING_PAGE_GOI;
+
 for (let day in weeklyDate) {
 	if (weeklyDate[day] === "yasumi") {
+		startingPage -= 2;
+		startingPageGoi -= 15;
 		continue;
 	}
+
 	const touDate: Date = new Date(weeklyDate.find(date => date !== "yasumi")!);
 	const today: Date = new Date(weeklyDate[day]);
 
-	const kanjiStartingPage = DEFAULT_STARTING_PAGE + 2 * (today.getDay() - 1);
-	const goiStartingPage = DEFAULT_STARTING_PAGE_GOI + 15 * (today.getDay() - 1);
 
+	const kanjiStartingPage = startingPage + 2 * (today.getDay() - 1);
+	const goiStartingPage = startingPageGoi + 15 * (today.getDay() - 1);
 
 	const kanjiDeck = new KanjiDeck(kanjiTxt, kanjiStartingPage);
 	const goiDeck = new GoiDeck(goiTxt, goiStartingPage);
