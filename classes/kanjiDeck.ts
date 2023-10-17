@@ -8,12 +8,12 @@ type KanjiJson = { pageRange: string, kanji: string; reading: string; meaning: s
 class KanjiDeck {
 	private database: string;
 
-	private writingPageRange: string;
-	private readingPageRange: string;
+	public writingPageRange: string;
+	public readingPageRange: string;
 	private newPageRange: string;
 
 	public writing: KanjiJson[] | undefined;
-	private reading: KanjiJson[] | undefined;
+	public reading: KanjiJson[] | undefined;
 	private new: KanjiJson[] | undefined;
 
 
@@ -56,7 +56,6 @@ class KanjiDeck {
 		this.writing = this.parseKanjiEntries(this.writingPageRange);
 		this.reading = this.parseKanjiEntries(this.readingPageRange);
 		this.new = this.parseKanjiEntries(this.newPageRange);
-		console.log(this.writingPageRange);
 	}
 
 	parseKanjiEntries(pageRange: string): KanjiJson[] | undefined {

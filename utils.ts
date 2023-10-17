@@ -1,5 +1,5 @@
 import PptxGenJS from "pptxgenjs";
-import { KanjiJson } from "./classes/kanjiDeck";
+import { KanjiDeck, KanjiJson } from "./classes/kanjiDeck";
 
 const readline = require('readline');
 
@@ -55,6 +55,29 @@ function getWeeklyDateDepr(starting: string, yasumi: number[]): string[] {
 	return thisWeekDatesFormatted;
 }
 
+function getMonthlyDateWithYasumi(month: number, starting: string, yasumi: number[][]): Date[][] {
+	const lastDayOfMonth = new Date(2023, month + 1, 0);
+
+	let touDate = lastDayOfMonth;
+	// set date to monday
+	touDate.setDate(touDate.getDate() - touDate.getDay() + 1);
+
+	let allWeekdaysInAMonth: Date[][] = [];
+
+	while (touDate.getDay() !== 0) {
+		const thisWeekDates: Date[] = Array<Date>(5);
+		const dayOfWeek = touDate.getDay();
+		const diff = touDate.getDate() - dayOfWeek + (dayOfWeek === 1 ? 0 : (dayOfWeek === 0 ? -6 : 1));
+		const monday = new Date(touDate.setDate(diff));
+
+		for (let i = 0; i < 5; i++) {
+			thisWeekDates[i] = new Date(monday);
+			monday.setDate(monday.getDate() + 1);
+		}
+	}
+	return allWeekdaysInAMonth;
+}
+
 function getWeeklyDate(): string[] {
 	const touDate = new Date();
 	// set date to monday
@@ -90,7 +113,6 @@ function shuffleArray<T>(originalArray: ReadonlyArray<T>): T[] {
 }
 
 function createSlides(kanjiJsons: KanjiJson[], pptx: PptxGenJS) {
-	console.log(kanjiJsons)
 	for (let kanjiJson of kanjiJsons) {
 		const slide = pptx.addSlide();
 		createSlide(kanjiJson, slide);
@@ -136,4 +158,17 @@ function createSlide(kanjiJson: KanjiJson, slide: PptxGenJS.Slide) {
 	})
 }
 
-export { getUserInput, getWeeklyDate, getWeeklyDateDepr, shuffleArray, createSlides };
+function printFormattedKanji(kanjiDeck: KanjiDeck) {
+	function printKanji(kanjiJson: KanjiJson, pageRange: string) {
+		process.stdout.write(`${pageRange} ${kanjiJson.kanji} ${kanjiJson.reading} | `);
+	}
+	const writing = kanjiDeck.writing;
+	const reading = kanjiDeck.reading;
+	if (writing && reading) {
+		printKanji(writing[0], kanjiDeck.writingPageRange);
+		printKanji(reading[0], kanjiDeck.readingPageRange);
+		console.log();
+	}
+}
+
+export { getUserInput, getWeeklyDate, getWeeklyDateDepr, shuffleArray, createSlides, printFormattedKanji };
