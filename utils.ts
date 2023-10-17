@@ -115,11 +115,49 @@ function shuffleArray<T>(originalArray: ReadonlyArray<T>): T[] {
 function createSlides(kanjiJsons: KanjiJson[], pptx: PptxGenJS) {
 	for (let kanjiJson of kanjiJsons) {
 		const slide = pptx.addSlide();
-		createSlide(kanjiJson, slide);
+		createSlideFromKanjiJson(kanjiJson, slide);
 	}
 }
 
-function createSlide(kanjiJson: KanjiJson, slide: PptxGenJS.Slide) {
+function createPpt(kanjis: any[], pptx: PptxGenJS) {
+	// console.log(kanjis);
+	for (let kanji of kanjis) {
+		const slide = pptx.addSlide();
+		createSlide(kanji, slide);
+	}
+}
+
+function createSlide(kanji: { kanji: string, reading: string, meaning: string }, slide: PptxGenJS.Slide) {
+	slide.addText(`${kanji.kanji}`, {
+		x: 0,
+		y: 0.6,
+		w: "100%",
+		h: 2,
+		align: "center",
+		color: "000000",
+		fontSize: 48,
+	});
+	slide.addText(`\n\n${kanji.reading}`, {
+		x: 0,
+		y: 1,
+		w: "100%",
+		h: 2,
+		align: "center",
+		color: "404040",
+		fontSize: 36,
+	})
+	slide.addText(`${kanji.meaning.replaceAll(";", "|").slice(0, 121)}...`, {
+		x: 0,
+		y: 3,
+		w: "100%",
+		h: 2,
+		align: "center",
+		color: "808080",
+		fontSize: 36,
+	});
+}
+
+function createSlideFromKanjiJson(kanjiJson: KanjiJson, slide: PptxGenJS.Slide) {
 	slide.addText(`${kanjiJson.kanji}`, {
 		x: 0,
 		y: 0.6,
@@ -171,4 +209,4 @@ function printFormattedKanji(kanjiDeck: KanjiDeck) {
 	}
 }
 
-export { getUserInput, getWeeklyDate, getWeeklyDateDepr, shuffleArray, createSlides, printFormattedKanji };
+export { getUserInput, getWeeklyDate, getWeeklyDateDepr, shuffleArray, createSlides, createPpt, createSlide, printFormattedKanji };
