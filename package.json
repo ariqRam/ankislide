@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/readline-sync": "^1.4.5",
+    "csv-parser": "^3.0.0",
     "pptxgenjs": "^3.12.0"
   }
 }
